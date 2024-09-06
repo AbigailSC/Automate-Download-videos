@@ -1,0 +1,48 @@
+06-09-2024 16:20 [INFO] - Getting courses from https://cursos.devtalles.com/pages/todos-los-cursos
+06-09-2024 16:20 [INFO] - Page title: DevTalles | Todos los Cursos
+06-09-2024 16:20 [INFO] - Course: Angular de cero a experto
+06-09-2024 16:20 [INFO] - Course: Dart: De cero hasta los detalles
+06-09-2024 16:20 [INFO] - Course: Docker - Guía práctica de uso para desarrolladores
+06-09-2024 16:20 [INFO] - Course: Flutter - Móvil: De cero a experto
+06-09-2024 16:20 [INFO] - Course: Flutter Avanzado: Lleva tu conocimiento al siguiente nivel
+06-09-2024 16:20 [INFO] - Course: Flutter Intermedio: Diseños profesionales y animaciones
+06-09-2024 16:20 [INFO] - Course: Flutter Móvil: Recursos Nativos - Nivel Intermedio
+06-09-2024 16:20 [INFO] - Course: Flutter Web: Aplicaciones y páginas web profesionales
+06-09-2024 16:20 [INFO] - Course: GIT+GitHub: Todo un sistema de control de versiones de cero
+06-09-2024 16:20 [INFO] - Course: JavaScript Moderno: Guía para dominar el lenguaje
+06-09-2024 16:20 [INFO] - Course: Nest + GraphQL: Evoluciona tus APIs.
+06-09-2024 16:20 [INFO] - Course: Nest: Desarrollo backend escalable con Node
+06-09-2024 16:20 [INFO] - Course: NestJS + Microservicios: Aplicaciones escalables y modulares
+06-09-2024 16:20 [INFO] - Course: NestJs + Reportes: Genera PDFs desde Node
+06-09-2024 16:20 [INFO] - Course: Next.js Tradicional: con PagesRouter
+06-09-2024 16:20 [INFO] - Course: Next.js: El framework de React para producción
+06-09-2024 16:20 [INFO] - Course: Node.Js: De cero a experto
+06-09-2024 16:20 [INFO] - Course: OpenAI: Ejercicios prácticos y asistentes con React + NestJS
+06-09-2024 16:20 [INFO] - Course: OpenAI: Ejercicios y asistentes con Angular + NestJS
+06-09-2024 16:20 [INFO] - Course: Principios SOLID y Clean Code
+06-09-2024 16:20 [INFO] - Course: Programación para principiantes - Primeros pasos
+06-09-2024 16:20 [INFO] - Course: PWA - Aplicaciones Web Progresivas: De cero a experto
+06-09-2024 16:20 [INFO] - Course: React Native CLI: Aplicaciones nativas para IOS y Android
+06-09-2024 16:20 [INFO] - Course: React PRO: Lleva tus bases al siguiente nivel
+06-09-2024 16:20 [INFO] - Course: React: Aplicaciones en tiempo real con Socket-io
+06-09-2024 16:20 [INFO] - Course: React: De cero a experto ( Hooks y MERN )
+06-09-2024 16:20 [INFO] - Course: ReactiveX - RxJs: De cero hasta los detalles
+06-09-2024 16:20 [INFO] - Course: SQL de cero: Tu guía práctica con PostgreSQL
+06-09-2024 16:20 [INFO] - Course: TypeScript: Tu completa guía y manual de mano.
+06-09-2024 16:20 [INFO] - Course: Vue.js - de Cero a Experto: Composition Api
+06-09-2024 16:20 [INFO] - Course: Vue.js Tradicional: Options API
+06-09-2024 16:20 [INFO] - Course: Vue.js - Intermedio: Lleva tus bases al siguiente nivel
+06-09-2024 16:20 [INFO] - Course: Qwik - Introducción al Framework
+06-09-2024 16:20 [INFO] - Course: TanStack Query - Un poderoso gestor de estado asíncrono.
+06-09-2024 16:20 [INFO] - Course: Mini-Curso: Riverpod providers con anotaciones
+06-09-2024 16:20 [INFO] - Course: Visual Studio Code: Mejora tu velocidad para codificar
+06-09-2024 16:20 [INFO] - Course: Shadcn/ui: Componentes accesibles y personalizables
+06-09-2024 16:20 [INFO] - Course: Mini-Curso: Riverpod providers con anotaciones
+06-09-2024 16:20 [INFO] - Course: Zustand: Gestor de estado para React
+06-09-2024 16:20 [INFO] - Course: Mini-Curso: Flutter BLoC
+06-09-2024 16:20 [INFO] - Course: Node - Autenticación Rest con Clean Architecture
+06-09-2024 16:20 [INFO] - Course: Legacy - Angular (V14): De cero a experto
+06-09-2024 16:20 [INFO] - Course: Legacy - Angular Avanzado: Lleva tus bases al siguiente nivel - MEAN
+06-09-2024 16:20 [INFO] - Course: Legacy - React (v16, 17): De cero a experto
+06-09-2024 16:20 [INFO] - Course: Legacy - Node: De cero a experto
+06-09-2024 16:20 [INFO] - Course: Legacy - React Native: Aplicaciones nativas para IOS y Android
