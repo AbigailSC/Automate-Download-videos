@@ -1,48 +1,2727 @@
-06-09-2024 16:20 [INFO] - Getting courses from https://cursos.devtalles.com/pages/todos-los-cursos
-06-09-2024 16:20 [INFO] - Page title: DevTalles | Todos los Cursos
-06-09-2024 16:20 [INFO] - Course: Angular de cero a experto
-06-09-2024 16:20 [INFO] - Course: Dart: De cero hasta los detalles
-06-09-2024 16:20 [INFO] - Course: Docker - Gu�a pr�ctica de uso para desarrolladores
-06-09-2024 16:20 [INFO] - Course: Flutter - M�vil: De cero a experto
-06-09-2024 16:20 [INFO] - Course: Flutter Avanzado: Lleva tu conocimiento al siguiente nivel
-06-09-2024 16:20 [INFO] - Course: Flutter Intermedio: Dise�os profesionales y animaciones
-06-09-2024 16:20 [INFO] - Course: Flutter M�vil: Recursos Nativos - Nivel Intermedio
-06-09-2024 16:20 [INFO] - Course: Flutter Web: Aplicaciones y p�ginas web profesionales
-06-09-2024 16:20 [INFO] - Course: GIT+GitHub: Todo un sistema de control de versiones de cero
-06-09-2024 16:20 [INFO] - Course: JavaScript Moderno: Gu�a para dominar el lenguaje
-06-09-2024 16:20 [INFO] - Course: Nest + GraphQL: Evoluciona tus APIs.
-06-09-2024 16:20 [INFO] - Course: Nest: Desarrollo backend escalable con Node
-06-09-2024 16:20 [INFO] - Course: NestJS + Microservicios: Aplicaciones escalables y modulares
-06-09-2024 16:20 [INFO] - Course: NestJs + Reportes: Genera PDFs desde Node
-06-09-2024 16:20 [INFO] - Course: Next.js Tradicional: con PagesRouter
-06-09-2024 16:20 [INFO] - Course: Next.js: El framework de React para producci�n
-06-09-2024 16:20 [INFO] - Course: Node.Js: De cero a experto
-06-09-2024 16:20 [INFO] - Course: OpenAI: Ejercicios pr�cticos y asistentes con React + NestJS
-06-09-2024 16:20 [INFO] - Course: OpenAI: Ejercicios y asistentes con Angular + NestJS
-06-09-2024 16:20 [INFO] - Course: Principios SOLID y Clean Code
-06-09-2024 16:20 [INFO] - Course: Programaci�n para principiantes - Primeros pasos
-06-09-2024 16:20 [INFO] - Course: PWA - Aplicaciones Web Progresivas: De cero a experto
-06-09-2024 16:20 [INFO] - Course: React Native CLI: Aplicaciones nativas para IOS y Android
-06-09-2024 16:20 [INFO] - Course: React PRO: Lleva tus bases al siguiente nivel
-06-09-2024 16:20 [INFO] - Course: React: Aplicaciones en tiempo real con Socket-io
-06-09-2024 16:20 [INFO] - Course: React: De cero a experto ( Hooks y MERN )
-06-09-2024 16:20 [INFO] - Course: ReactiveX - RxJs: De cero hasta los detalles
-06-09-2024 16:20 [INFO] - Course: SQL de cero: Tu gu�a pr�ctica con PostgreSQL
-06-09-2024 16:20 [INFO] - Course: TypeScript: Tu completa gu�a y manual de mano.
-06-09-2024 16:20 [INFO] - Course: Vue.js - de Cero a Experto: Composition Api
-06-09-2024 16:20 [INFO] - Course: Vue.js Tradicional: Options API
-06-09-2024 16:20 [INFO] - Course: Vue.js - Intermedio: Lleva tus bases al siguiente nivel
-06-09-2024 16:20 [INFO] - Course: Qwik - Introducci�n al Framework
-06-09-2024 16:20 [INFO] - Course: TanStack Query - Un poderoso gestor de estado as�ncrono.
-06-09-2024 16:20 [INFO] - Course: Mini-Curso: Riverpod providers con anotaciones
-06-09-2024 16:20 [INFO] - Course: Visual Studio Code: Mejora tu velocidad para codificar
-06-09-2024 16:20 [INFO] - Course: Shadcn/ui: Componentes accesibles y personalizables
-06-09-2024 16:20 [INFO] - Course: Mini-Curso: Riverpod providers con anotaciones
-06-09-2024 16:20 [INFO] - Course: Zustand: Gestor de estado para React
-06-09-2024 16:20 [INFO] - Course: Mini-Curso: Flutter BLoC
-06-09-2024 16:20 [INFO] - Course: Node - Autenticaci�n Rest con Clean Architecture
-06-09-2024 16:20 [INFO] - Course: Legacy - Angular (V14): De cero a experto
-06-09-2024 16:20 [INFO] - Course: Legacy - Angular Avanzado: Lleva tus bases al siguiente nivel - MEAN
-06-09-2024 16:20 [INFO] - Course: Legacy - React (v16, 17): De cero a experto
-06-09-2024 16:20 [INFO] - Course: Legacy - Node: De cero a experto
-06-09-2024 16:20 [INFO] - Course: Legacy - React Native: Aplicaciones nativas para IOS y Android
+06-09-2024 17:19 [INFO] - Getting courses from https://cursos.devtalles.com/pages/todos-los-cursos
+06-09-2024 17:19 [INFO] - Page title: DevTalles | Todos los Cursos
+06-09-2024 17:24 [INFO] - Already logged in
+06-09-2024 17:24 [INFO] - Getting courses from https://cursos.devtalles.com/pages/todos-los-cursos
+06-09-2024 17:24 [INFO] - Page title: DevTalles | Todos los Cursos
+06-09-2024 17:25 [INFO] - Already logged in
+06-09-2024 17:25 [INFO] - Getting courses from https://cursos.devtalles.com/pages/todos-los-cursos
+06-09-2024 17:25 [INFO] - Page title: DevTalles | Todos los Cursos
+06-09-2024 17:26 [INFO] - Already logged in
+06-09-2024 17:26 [INFO] - Getting courses from https://cursos.devtalles.com/pages/todos-los-cursos
+06-09-2024 17:26 [INFO] - Page title: DevTalles | Todos los Cursos
+06-09-2024 17:28 [INFO] - Getting courses from https://cursos.devtalles.com/pages/todos-los-cursos
+06-09-2024 17:28 [INFO] - Page title: DevTalles | Todos los Cursos
+06-09-2024 17:28 [INFO] - Getting courses from https://cursos.devtalles.com/pages/todos-los-cursos
+06-09-2024 17:28 [INFO] - Page title: DevTalles | Todos los Cursos
+06-09-2024 17:29 [INFO] - Getting courses from https://cursos.devtalles.com/pages/todos-los-cursos
+06-09-2024 17:29 [INFO] - Page title: DevTalles | Todos los Cursos
+06-09-2024 17:33 [INFO] - Getting courses from https://cursos.devtalles.com/pages/todos-los-cursos
+06-09-2024 17:33 [INFO] - Page title: DevTalles | Todos los Cursos
+06-09-2024 17:33 [INFO] - Getting courses from https://cursos.devtalles.com/pages/todos-los-cursos
+06-09-2024 17:33 [INFO] - Page title: DevTalles | Todos los Cursos
+06-09-2024 17:37 [INFO] - Ya est�s logueado, saltando el proceso de inicio de sesi�n.
+06-09-2024 17:37 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 17:37 [INFO] - Page title: DevTalles | Todos los Cursos
+06-09-2024 17:46 [INFO] - Course: Qwik - Introducci�n al Framework
+06-09-2024 17:46 [INFO] - Course: Flutter M�vil: Recursos Nativos - Nivel Intermedio
+06-09-2024 17:46 [INFO] - Course: Flutter - M�vil: De cero a experto
+06-09-2024 17:46 [INFO] - Course: PWA - Aplicaciones Web Progresivas: De cero a experto
+06-09-2024 17:46 [INFO] - Course: Angular de cero a experto
+06-09-2024 17:46 [INFO] - Course: Docker - Gu�a pr�ctica de uso para desarrolladores
+06-09-2024 17:46 [INFO] - Course: Flutter Avanzado: Lleva tu conocimiento al siguiente nivel
+06-09-2024 17:46 [INFO] - Course: Flutter Intermedio: Dise�os profesionales y animaciones
+06-09-2024 17:46 [INFO] - Course: TanStack Query - Un poderoso gestor de estado as�ncrono.
+06-09-2024 17:46 [INFO] - Course: Vue.js - Intermedio: Lleva tus bases al siguiente nivel
+06-09-2024 17:46 [INFO] - Course: React: Aplicaciones en tiempo real con Socket-io
+06-09-2024 17:46 [INFO] - Course: Programaci�n para principiantes - Primeros pasos
+06-09-2024 17:46 [INFO] - Course: +DevTalles
+06-09-2024 17:46 [INFO] - Course: ReactiveX - RxJs: De cero hasta los detalles
+06-09-2024 17:46 [INFO] - Course: Legacy - Node: De cero a experto
+06-09-2024 17:46 [INFO] - Course: React PRO: Lleva tus bases al siguiente nivel
+06-09-2024 17:46 [INFO] - Course: TypeScript: Tu completa gu�a y manual de mano.
+06-09-2024 17:46 [INFO] - Course: GIT+GitHub: Todo un sistema de control de versiones de cero
+06-09-2024 17:46 [INFO] - Course: DevTalles Discord
+06-09-2024 17:46 [INFO] - Course: PRO - Acceso Anticipado
+06-09-2024 19:39 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 19:39 [INFO] - Page title: DevTalles | Todos los Cursos
+06-09-2024 19:41 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+06-09-2024 19:41 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 19:41 [INFO] - Page title: DevTalles | Todos los Cursos
+06-09-2024 19:41 [INFO] - Course: Qwik - Introducción al Framework
+06-09-2024 19:41 [INFO] - Course: Flutter Móvil: Recursos Nativos - Nivel Intermedio
+06-09-2024 19:41 [INFO] - Course: Flutter - Móvil: De cero a experto
+06-09-2024 19:41 [INFO] - Course: PWA - Aplicaciones Web Progresivas: De cero a experto
+06-09-2024 19:41 [INFO] - Course: Angular de cero a experto
+06-09-2024 19:41 [INFO] - Course: Docker - Guía práctica de uso para desarrolladores
+06-09-2024 19:41 [INFO] - Course: Flutter Avanzado: Lleva tu conocimiento al siguiente nivel
+06-09-2024 19:41 [INFO] - Course: Flutter Intermedio: Diseños profesionales y animaciones
+06-09-2024 19:41 [INFO] - Course: TanStack Query - Un poderoso gestor de estado asíncrono.
+06-09-2024 19:41 [INFO] - Course: Vue.js - Intermedio: Lleva tus bases al siguiente nivel
+06-09-2024 19:41 [INFO] - Course: React: Aplicaciones en tiempo real con Socket-io
+06-09-2024 19:41 [INFO] - Course: Programación para principiantes - Primeros pasos
+06-09-2024 19:41 [INFO] - Course: +DevTalles
+06-09-2024 19:41 [INFO] - Course: ReactiveX - RxJs: De cero hasta los detalles
+06-09-2024 19:41 [INFO] - Course: Legacy - Node: De cero a experto
+06-09-2024 19:41 [INFO] - Course: React PRO: Lleva tus bases al siguiente nivel
+06-09-2024 19:41 [INFO] - Course: TypeScript: Tu completa guía y manual de mano.
+06-09-2024 19:41 [INFO] - Course: GIT+GitHub: Todo un sistema de control de versiones de cero
+06-09-2024 19:41 [INFO] - Course: DevTalles Discord
+06-09-2024 19:41 [INFO] - Course: PRO - Acceso Anticipado
+06-09-2024 19:57 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 19:57 [INFO] - Page title: DevTalles | Todos los Cursos
+06-09-2024 19:57 [INFO] - Course: Node - Autenticación Rest con Clean Architecture
+06-09-2024 19:57 [INFO] - Course: Vue.js Tradicional: Options API
+06-09-2024 19:57 [INFO] - Course: React Native Expo: Aplicaciones nativas para IOS y Android
+06-09-2024 19:57 [INFO] - Course: Angular Pro: Lleva tus bases al siguiente nivel
+06-09-2024 19:57 [INFO] - Course: Astro: El framework para sitios web orientados al contenido
+06-09-2024 19:57 [INFO] - Course: NestJs + Reportes: Genera PDFs desde Node
+06-09-2024 19:57 [INFO] - Course: Shadcn/ui: Componentes accesibles y personalizables
+06-09-2024 19:57 [INFO] - Course: Vue.js - de Cero a Experto: Composition Api
+06-09-2024 19:57 [INFO] - Course: NestJS + Microservicios: Aplicaciones escalables y modulares
+06-09-2024 19:57 [INFO] - Course: OpenAI: Ejercicios y asistentes con Angular + NestJS
+06-09-2024 19:57 [INFO] - Course: OpenAI: Ejercicios prácticos y asistentes con React + NestJS
+06-09-2024 19:57 [INFO] - Course: React Native CLI: Aplicaciones nativas para IOS y Android
+06-09-2024 19:57 [INFO] - Course: Zustand: Gestor de estado para React
+06-09-2024 19:57 [INFO] - Course: Mini-Curso: Flutter BLoC
+06-09-2024 19:57 [INFO] - Course: Node.Js: De cero a experto
+06-09-2024 19:57 [INFO] - Course: Mini-Curso: Riverpod providers con anotaciones
+06-09-2024 19:57 [INFO] - Course: SQL de cero: Tu guía práctica con PostgreSQL
+06-09-2024 19:57 [INFO] - Course: Next.js: El framework de React para producción
+06-09-2024 19:57 [INFO] - Course: DevTalles Discord
+06-09-2024 19:57 [INFO] - Course: PRO - Acceso Anticipado
+06-09-2024 20:42 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 20:42 [INFO] - Page title: DevTalles | Todos los Cursos
+06-09-2024 20:44 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 20:44 [INFO] - Page title: DevTalles | Todos los Cursos
+06-09-2024 20:45 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+06-09-2024 20:45 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 20:45 [INFO] - Page title: DevTalles | Todos los Cursos
+06-09-2024 20:45 [INFO] - Course: Angular de cero a experto
+06-09-2024 20:45 [INFO] - Course: Dart: De cero hasta los detalles
+06-09-2024 20:45 [INFO] - Course: Docker - Guía práctica de uso para desarrolladores
+06-09-2024 20:45 [INFO] - Course: Flutter - Móvil: De cero a experto
+06-09-2024 20:45 [INFO] - Course: Flutter Avanzado: Lleva tu conocimiento al siguiente nivel
+06-09-2024 20:45 [INFO] - Course: Flutter Intermedio: Diseños profesionales y animaciones
+06-09-2024 20:45 [INFO] - Course: Flutter Móvil: Recursos Nativos - Nivel Intermedio
+06-09-2024 20:45 [INFO] - Course: Flutter Web: Aplicaciones y páginas web profesionales
+06-09-2024 20:45 [INFO] - Course: GIT+GitHub: Todo un sistema de control de versiones de cero
+06-09-2024 20:45 [INFO] - Course: JavaScript Moderno: Guía para dominar el lenguaje
+06-09-2024 20:45 [INFO] - Course: Nest + GraphQL: Evoluciona tus APIs.
+06-09-2024 20:45 [INFO] - Course: Nest: Desarrollo backend escalable con Node
+06-09-2024 20:45 [INFO] - Course: NestJS + Microservicios: Aplicaciones escalables y modulares
+06-09-2024 20:45 [INFO] - Course: NestJs + Reportes: Genera PDFs desde Node
+06-09-2024 20:45 [INFO] - Course: Next.js Tradicional: con PagesRouter
+06-09-2024 20:45 [INFO] - Course: Next.js: El framework de React para producción
+06-09-2024 20:45 [INFO] - Course: Node.Js: De cero a experto
+06-09-2024 20:45 [INFO] - Course: OpenAI: Ejercicios prácticos y asistentes con React + NestJS
+06-09-2024 20:45 [INFO] - Course: OpenAI: Ejercicios y asistentes con Angular + NestJS
+06-09-2024 20:45 [INFO] - Course: Principios SOLID y Clean Code
+06-09-2024 20:45 [INFO] - Course: Programación para principiantes - Primeros pasos
+06-09-2024 20:45 [INFO] - Course: PWA - Aplicaciones Web Progresivas: De cero a experto
+06-09-2024 20:45 [INFO] - Course: React Native CLI: Aplicaciones nativas para IOS y Android
+06-09-2024 20:45 [INFO] - Course: React PRO: Lleva tus bases al siguiente nivel
+06-09-2024 20:45 [INFO] - Course: React: Aplicaciones en tiempo real con Socket-io
+06-09-2024 20:45 [INFO] - Course: React: De cero a experto ( Hooks y MERN )
+06-09-2024 20:45 [INFO] - Course: ReactiveX - RxJs: De cero hasta los detalles
+06-09-2024 20:45 [INFO] - Course: SQL de cero: Tu guía práctica con PostgreSQL
+06-09-2024 20:45 [INFO] - Course: TypeScript: Tu completa guía y manual de mano.
+06-09-2024 20:45 [INFO] - Course: Vue.js - de Cero a Experto: Composition Api
+06-09-2024 20:45 [INFO] - Course: Vue.js Tradicional: Options API
+06-09-2024 20:45 [INFO] - Course: Vue.js - Intermedio: Lleva tus bases al siguiente nivel
+06-09-2024 20:45 [INFO] - Course: Qwik - Introducción al Framework
+06-09-2024 20:45 [INFO] - Course: TanStack Query - Un poderoso gestor de estado asíncrono.
+06-09-2024 20:45 [INFO] - Course: Mini-Curso: Riverpod providers con anotaciones
+06-09-2024 20:45 [INFO] - Course: Visual Studio Code: Mejora tu velocidad para codificar
+06-09-2024 20:45 [INFO] - Course: Shadcn/ui: Componentes accesibles y personalizables
+06-09-2024 20:45 [INFO] - Course: Mini-Curso: Riverpod providers con anotaciones
+06-09-2024 20:45 [INFO] - Course: Zustand: Gestor de estado para React
+06-09-2024 20:45 [INFO] - Course: Mini-Curso: Flutter BLoC
+06-09-2024 20:45 [INFO] - Course: Node - Autenticación Rest con Clean Architecture
+06-09-2024 20:45 [INFO] - Course: Legacy - Angular (V14): De cero a experto
+06-09-2024 20:45 [INFO] - Course: Legacy - Angular Avanzado: Lleva tus bases al siguiente nivel - MEAN
+06-09-2024 20:45 [INFO] - Course: Legacy - React (v16, 17): De cero a experto
+06-09-2024 20:45 [INFO] - Course: Legacy - Node: De cero a experto
+06-09-2024 20:45 [INFO] - Course: Legacy - React Native: Aplicaciones nativas para IOS y Android
+06-09-2024 20:45 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 20:45 [INFO] - Page title: DevTalles | Todos los Cursos
+06-09-2024 20:45 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 20:45 [INFO] - Page title: DevTalles | Todos los Cursos
+06-09-2024 20:46 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 20:46 [INFO] - Page title: DevTalles | Todos los Cursos
+06-09-2024 20:49 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+06-09-2024 20:49 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 20:49 [INFO] - Page title: DevTalles | Todos los Cursos
+06-09-2024 20:49 [INFO] - Course: Angular de cero a experto
+06-09-2024 20:49 [INFO] - Course: Dart: De cero hasta los detalles
+06-09-2024 20:49 [INFO] - Course: Docker - Guía práctica de uso para desarrolladores
+06-09-2024 20:49 [INFO] - Course: Flutter - Móvil: De cero a experto
+06-09-2024 20:49 [INFO] - Course: Flutter Avanzado: Lleva tu conocimiento al siguiente nivel
+06-09-2024 20:49 [INFO] - Course: Flutter Intermedio: Diseños profesionales y animaciones
+06-09-2024 20:49 [INFO] - Course: Flutter Móvil: Recursos Nativos - Nivel Intermedio
+06-09-2024 20:49 [INFO] - Course: Flutter Web: Aplicaciones y páginas web profesionales
+06-09-2024 20:49 [INFO] - Course: GIT+GitHub: Todo un sistema de control de versiones de cero
+06-09-2024 20:49 [INFO] - Course: JavaScript Moderno: Guía para dominar el lenguaje
+06-09-2024 20:49 [INFO] - Course: Nest + GraphQL: Evoluciona tus APIs.
+06-09-2024 20:49 [INFO] - Course: Nest: Desarrollo backend escalable con Node
+06-09-2024 20:49 [INFO] - Course: NestJS + Microservicios: Aplicaciones escalables y modulares
+06-09-2024 20:49 [INFO] - Course: NestJs + Reportes: Genera PDFs desde Node
+06-09-2024 20:49 [INFO] - Course: Next.js Tradicional: con PagesRouter
+06-09-2024 20:49 [INFO] - Course: Next.js: El framework de React para producción
+06-09-2024 20:49 [INFO] - Course: Node.Js: De cero a experto
+06-09-2024 20:49 [INFO] - Course: OpenAI: Ejercicios prácticos y asistentes con React + NestJS
+06-09-2024 20:49 [INFO] - Course: OpenAI: Ejercicios y asistentes con Angular + NestJS
+06-09-2024 20:49 [INFO] - Course: Principios SOLID y Clean Code
+06-09-2024 20:49 [INFO] - Course: Programación para principiantes - Primeros pasos
+06-09-2024 20:49 [INFO] - Course: PWA - Aplicaciones Web Progresivas: De cero a experto
+06-09-2024 20:49 [INFO] - Course: React Native CLI: Aplicaciones nativas para IOS y Android
+06-09-2024 20:49 [INFO] - Course: React PRO: Lleva tus bases al siguiente nivel
+06-09-2024 20:49 [INFO] - Course: React: Aplicaciones en tiempo real con Socket-io
+06-09-2024 20:49 [INFO] - Course: React: De cero a experto ( Hooks y MERN )
+06-09-2024 20:49 [INFO] - Course: ReactiveX - RxJs: De cero hasta los detalles
+06-09-2024 20:49 [INFO] - Course: SQL de cero: Tu guía práctica con PostgreSQL
+06-09-2024 20:49 [INFO] - Course: TypeScript: Tu completa guía y manual de mano.
+06-09-2024 20:49 [INFO] - Course: Vue.js - de Cero a Experto: Composition Api
+06-09-2024 20:49 [INFO] - Course: Vue.js Tradicional: Options API
+06-09-2024 20:49 [INFO] - Course: Vue.js - Intermedio: Lleva tus bases al siguiente nivel
+06-09-2024 20:49 [INFO] - Course: Qwik - Introducción al Framework
+06-09-2024 20:49 [INFO] - Course: TanStack Query - Un poderoso gestor de estado asíncrono.
+06-09-2024 20:49 [INFO] - Course: Mini-Curso: Riverpod providers con anotaciones
+06-09-2024 20:49 [INFO] - Course: Visual Studio Code: Mejora tu velocidad para codificar
+06-09-2024 20:49 [INFO] - Course: Shadcn/ui: Componentes accesibles y personalizables
+06-09-2024 20:49 [INFO] - Course: Mini-Curso: Riverpod providers con anotaciones
+06-09-2024 20:49 [INFO] - Course: Zustand: Gestor de estado para React
+06-09-2024 20:49 [INFO] - Course: Mini-Curso: Flutter BLoC
+06-09-2024 20:49 [INFO] - Course: Node - Autenticación Rest con Clean Architecture
+06-09-2024 20:49 [INFO] - Course: Legacy - Angular (V14): De cero a experto
+06-09-2024 20:49 [INFO] - Course: Legacy - Angular Avanzado: Lleva tus bases al siguiente nivel - MEAN
+06-09-2024 20:49 [INFO] - Course: Legacy - React (v16, 17): De cero a experto
+06-09-2024 20:49 [INFO] - Course: Legacy - Node: De cero a experto
+06-09-2024 20:49 [INFO] - Course: Legacy - React Native: Aplicaciones nativas para IOS y Android
+06-09-2024 20:51 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 20:51 [INFO] - Page title: DevTalles | Todos los Cursos
+06-09-2024 20:51 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 20:51 [INFO] - Page title: DevTalles | Todos los Cursos
+06-09-2024 20:52 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 20:52 [INFO] - Page title: DevTalles | Todos los Cursos
+06-09-2024 20:52 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 20:52 [INFO] - Page title: DevTalles | Todos los Cursos
+06-09-2024 20:53 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 20:53 [INFO] - Page title: DevTalles | Todos los Cursos
+06-09-2024 20:54 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+06-09-2024 20:54 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 20:54 [INFO] - Page title: DevTalles | Todos los Cursos
+06-09-2024 20:54 [INFO] - Course: Angular de cero a experto
+06-09-2024 20:54 [INFO] - Course: Dart: De cero hasta los detalles
+06-09-2024 20:54 [INFO] - Course: Docker - Guía práctica de uso para desarrolladores
+06-09-2024 20:54 [INFO] - Course: Flutter - Móvil: De cero a experto
+06-09-2024 20:54 [INFO] - Course: Flutter Avanzado: Lleva tu conocimiento al siguiente nivel
+06-09-2024 20:54 [INFO] - Course: Flutter Intermedio: Diseños profesionales y animaciones
+06-09-2024 20:54 [INFO] - Course: Flutter Móvil: Recursos Nativos - Nivel Intermedio
+06-09-2024 20:54 [INFO] - Course: Flutter Web: Aplicaciones y páginas web profesionales
+06-09-2024 20:54 [INFO] - Course: GIT+GitHub: Todo un sistema de control de versiones de cero
+06-09-2024 20:54 [INFO] - Course: JavaScript Moderno: Guía para dominar el lenguaje
+06-09-2024 20:54 [INFO] - Course: Nest + GraphQL: Evoluciona tus APIs.
+06-09-2024 20:54 [INFO] - Course: Nest: Desarrollo backend escalable con Node
+06-09-2024 20:54 [INFO] - Course: NestJS + Microservicios: Aplicaciones escalables y modulares
+06-09-2024 20:54 [INFO] - Course: NestJs + Reportes: Genera PDFs desde Node
+06-09-2024 20:54 [INFO] - Course: Next.js Tradicional: con PagesRouter
+06-09-2024 20:54 [INFO] - Course: Next.js: El framework de React para producción
+06-09-2024 20:54 [INFO] - Course: Node.Js: De cero a experto
+06-09-2024 20:54 [INFO] - Course: OpenAI: Ejercicios prácticos y asistentes con React + NestJS
+06-09-2024 20:54 [INFO] - Course: OpenAI: Ejercicios y asistentes con Angular + NestJS
+06-09-2024 20:54 [INFO] - Course: Principios SOLID y Clean Code
+06-09-2024 20:54 [INFO] - Course: Programación para principiantes - Primeros pasos
+06-09-2024 20:54 [INFO] - Course: PWA - Aplicaciones Web Progresivas: De cero a experto
+06-09-2024 20:54 [INFO] - Course: React Native CLI: Aplicaciones nativas para IOS y Android
+06-09-2024 20:54 [INFO] - Course: React PRO: Lleva tus bases al siguiente nivel
+06-09-2024 20:54 [INFO] - Course: React: Aplicaciones en tiempo real con Socket-io
+06-09-2024 20:54 [INFO] - Course: React: De cero a experto ( Hooks y MERN )
+06-09-2024 20:54 [INFO] - Course: ReactiveX - RxJs: De cero hasta los detalles
+06-09-2024 20:54 [INFO] - Course: SQL de cero: Tu guía práctica con PostgreSQL
+06-09-2024 20:54 [INFO] - Course: TypeScript: Tu completa guía y manual de mano.
+06-09-2024 20:54 [INFO] - Course: Vue.js - de Cero a Experto: Composition Api
+06-09-2024 20:54 [INFO] - Course: Vue.js Tradicional: Options API
+06-09-2024 20:54 [INFO] - Course: Vue.js - Intermedio: Lleva tus bases al siguiente nivel
+06-09-2024 20:54 [INFO] - Course: Qwik - Introducción al Framework
+06-09-2024 20:54 [INFO] - Course: TanStack Query - Un poderoso gestor de estado asíncrono.
+06-09-2024 20:54 [INFO] - Course: Mini-Curso: Riverpod providers con anotaciones
+06-09-2024 20:54 [INFO] - Course: Visual Studio Code: Mejora tu velocidad para codificar
+06-09-2024 20:54 [INFO] - Course: Shadcn/ui: Componentes accesibles y personalizables
+06-09-2024 20:54 [INFO] - Course: Mini-Curso: Riverpod providers con anotaciones
+06-09-2024 20:54 [INFO] - Course: Zustand: Gestor de estado para React
+06-09-2024 20:54 [INFO] - Course: Mini-Curso: Flutter BLoC
+06-09-2024 20:54 [INFO] - Course: Node - Autenticación Rest con Clean Architecture
+06-09-2024 20:54 [INFO] - Course: Legacy - Angular (V14): De cero a experto
+06-09-2024 20:54 [INFO] - Course: Legacy - Angular Avanzado: Lleva tus bases al siguiente nivel - MEAN
+06-09-2024 20:54 [INFO] - Course: Legacy - React (v16, 17): De cero a experto
+06-09-2024 20:54 [INFO] - Course: Legacy - Node: De cero a experto
+06-09-2024 20:54 [INFO] - Course: Legacy - React Native: Aplicaciones nativas para IOS y Android
+06-09-2024 20:55 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+06-09-2024 20:55 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 20:55 [INFO] - Page title: DevTalles | Todos los Cursos
+06-09-2024 20:55 [INFO] - Course: Angular de cero a experto
+06-09-2024 20:55 [INFO] - Course: Dart: De cero hasta los detalles
+06-09-2024 20:55 [INFO] - Course: Docker - Guía práctica de uso para desarrolladores
+06-09-2024 20:55 [INFO] - Course: Flutter - Móvil: De cero a experto
+06-09-2024 20:55 [INFO] - Course: Flutter Avanzado: Lleva tu conocimiento al siguiente nivel
+06-09-2024 20:55 [INFO] - Course: Flutter Intermedio: Diseños profesionales y animaciones
+06-09-2024 20:55 [INFO] - Course: Flutter Móvil: Recursos Nativos - Nivel Intermedio
+06-09-2024 20:55 [INFO] - Course: Flutter Web: Aplicaciones y páginas web profesionales
+06-09-2024 20:55 [INFO] - Course: GIT+GitHub: Todo un sistema de control de versiones de cero
+06-09-2024 20:55 [INFO] - Course: JavaScript Moderno: Guía para dominar el lenguaje
+06-09-2024 20:55 [INFO] - Course: Nest + GraphQL: Evoluciona tus APIs.
+06-09-2024 20:55 [INFO] - Course: Nest: Desarrollo backend escalable con Node
+06-09-2024 20:55 [INFO] - Course: NestJS + Microservicios: Aplicaciones escalables y modulares
+06-09-2024 20:55 [INFO] - Course: NestJs + Reportes: Genera PDFs desde Node
+06-09-2024 20:55 [INFO] - Course: Next.js Tradicional: con PagesRouter
+06-09-2024 20:55 [INFO] - Course: Next.js: El framework de React para producción
+06-09-2024 20:55 [INFO] - Course: Node.Js: De cero a experto
+06-09-2024 20:55 [INFO] - Course: OpenAI: Ejercicios prácticos y asistentes con React + NestJS
+06-09-2024 20:55 [INFO] - Course: OpenAI: Ejercicios y asistentes con Angular + NestJS
+06-09-2024 20:55 [INFO] - Course: Principios SOLID y Clean Code
+06-09-2024 20:55 [INFO] - Course: Programación para principiantes - Primeros pasos
+06-09-2024 20:55 [INFO] - Course: PWA - Aplicaciones Web Progresivas: De cero a experto
+06-09-2024 20:55 [INFO] - Course: React Native CLI: Aplicaciones nativas para IOS y Android
+06-09-2024 20:55 [INFO] - Course: React PRO: Lleva tus bases al siguiente nivel
+06-09-2024 20:55 [INFO] - Course: React: Aplicaciones en tiempo real con Socket-io
+06-09-2024 20:55 [INFO] - Course: React: De cero a experto ( Hooks y MERN )
+06-09-2024 20:55 [INFO] - Course: ReactiveX - RxJs: De cero hasta los detalles
+06-09-2024 20:55 [INFO] - Course: SQL de cero: Tu guía práctica con PostgreSQL
+06-09-2024 20:55 [INFO] - Course: TypeScript: Tu completa guía y manual de mano.
+06-09-2024 20:55 [INFO] - Course: Vue.js - de Cero a Experto: Composition Api
+06-09-2024 20:55 [INFO] - Course: Vue.js Tradicional: Options API
+06-09-2024 20:55 [INFO] - Course: Vue.js - Intermedio: Lleva tus bases al siguiente nivel
+06-09-2024 20:55 [INFO] - Course: Qwik - Introducción al Framework
+06-09-2024 20:55 [INFO] - Course: TanStack Query - Un poderoso gestor de estado asíncrono.
+06-09-2024 20:55 [INFO] - Course: Mini-Curso: Riverpod providers con anotaciones
+06-09-2024 20:55 [INFO] - Course: Visual Studio Code: Mejora tu velocidad para codificar
+06-09-2024 20:55 [INFO] - Course: Shadcn/ui: Componentes accesibles y personalizables
+06-09-2024 20:55 [INFO] - Course: Mini-Curso: Riverpod providers con anotaciones
+06-09-2024 20:55 [INFO] - Course: Zustand: Gestor de estado para React
+06-09-2024 20:55 [INFO] - Course: Mini-Curso: Flutter BLoC
+06-09-2024 20:55 [INFO] - Course: Node - Autenticación Rest con Clean Architecture
+06-09-2024 20:55 [INFO] - Course: Legacy - Angular (V14): De cero a experto
+06-09-2024 20:55 [INFO] - Course: Legacy - Angular Avanzado: Lleva tus bases al siguiente nivel - MEAN
+06-09-2024 20:55 [INFO] - Course: Legacy - React (v16, 17): De cero a experto
+06-09-2024 20:55 [INFO] - Course: Legacy - Node: De cero a experto
+06-09-2024 20:55 [INFO] - Course: Legacy - React Native: Aplicaciones nativas para IOS y Android
+06-09-2024 21:04 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+06-09-2024 21:04 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 21:04 [INFO] - Page title: DevTalles
+06-09-2024 21:04 [INFO] - Course: React Native Expo: Aplicaciones nativas para IOS y Android
+06-09-2024 21:04 [INFO] - Course: Angular Pro: Lleva tus bases al siguiente nivel
+06-09-2024 21:04 [INFO] - Course: Astro: El framework para sitios web orientados al contenido
+06-09-2024 21:04 [INFO] - Course: NestJs + Reportes: Genera PDFs desde Node
+06-09-2024 21:04 [INFO] - Course: Shadcn/ui: Componentes accesibles y personalizables
+06-09-2024 21:04 [INFO] - Course: Vue.js - de Cero a Experto: Composition Api
+06-09-2024 21:05 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 21:05 [INFO] - Page title: DevTalles
+06-09-2024 21:05 [INFO] - Course: Angular de cero a experto
+06-09-2024 21:05 [INFO] - Course: Dart: De cero hasta los detalles
+06-09-2024 21:05 [INFO] - Course: Docker - Guía práctica de uso para desarrolladores
+06-09-2024 21:05 [INFO] - Course: Flutter - Móvil: De cero a experto
+06-09-2024 21:05 [INFO] - Course: Flutter Avanzado: Lleva tu conocimiento al siguiente nivel
+06-09-2024 21:05 [INFO] - Course: Flutter Intermedio: Diseños profesionales y animaciones
+06-09-2024 21:05 [INFO] - Course: Flutter Móvil: Recursos Nativos - Nivel Intermedio
+06-09-2024 21:05 [INFO] - Course: Flutter Web: Aplicaciones y páginas web profesionales
+06-09-2024 21:05 [INFO] - Course: GIT+GitHub: Todo un sistema de control de versiones de cero
+06-09-2024 21:05 [INFO] - Course: JavaScript Moderno: Guía para dominar el lenguaje
+06-09-2024 21:05 [INFO] - Course: Nest + GraphQL: Evoluciona tus APIs.
+06-09-2024 21:05 [INFO] - Course: Nest: Desarrollo backend escalable con Node
+06-09-2024 21:05 [INFO] - Course: NestJS + Microservicios: Aplicaciones escalables y modulares
+06-09-2024 21:05 [INFO] - Course: NestJs + Reportes: Genera PDFs desde Node
+06-09-2024 21:05 [INFO] - Course: Next.js Tradicional: con PagesRouter
+06-09-2024 21:05 [INFO] - Course: Next.js: El framework de React para producción
+06-09-2024 21:05 [INFO] - Course: Node.Js: De cero a experto
+06-09-2024 21:05 [INFO] - Course: OpenAI: Ejercicios prácticos y asistentes con React + NestJS
+06-09-2024 21:05 [INFO] - Course: OpenAI: Ejercicios y asistentes con Angular + NestJS
+06-09-2024 21:05 [INFO] - Course: Principios SOLID y Clean Code
+06-09-2024 21:05 [INFO] - Course: Programación para principiantes - Primeros pasos
+06-09-2024 21:05 [INFO] - Course: PWA - Aplicaciones Web Progresivas: De cero a experto
+06-09-2024 21:05 [INFO] - Course: React Native CLI: Aplicaciones nativas para IOS y Android
+06-09-2024 21:05 [INFO] - Course: React PRO: Lleva tus bases al siguiente nivel
+06-09-2024 21:05 [INFO] - Course: React: Aplicaciones en tiempo real con Socket-io
+06-09-2024 21:05 [INFO] - Course: React: De cero a experto ( Hooks y MERN )
+06-09-2024 21:05 [INFO] - Course: ReactiveX - RxJs: De cero hasta los detalles
+06-09-2024 21:05 [INFO] - Course: SQL de cero: Tu guía práctica con PostgreSQL
+06-09-2024 21:05 [INFO] - Course: TypeScript: Tu completa guía y manual de mano.
+06-09-2024 21:05 [INFO] - Course: Vue.js - de Cero a Experto: Composition Api
+06-09-2024 21:05 [INFO] - Course: Vue.js Tradicional: Options API
+06-09-2024 21:05 [INFO] - Course: Vue.js - Intermedio: Lleva tus bases al siguiente nivel
+06-09-2024 21:05 [INFO] - Course: Qwik - Introducción al Framework
+06-09-2024 21:05 [INFO] - Course: TanStack Query - Un poderoso gestor de estado asíncrono.
+06-09-2024 21:05 [INFO] - Course: Mini-Curso: Riverpod providers con anotaciones
+06-09-2024 21:05 [INFO] - Course: Visual Studio Code: Mejora tu velocidad para codificar
+06-09-2024 21:05 [INFO] - Course: Shadcn/ui: Componentes accesibles y personalizables
+06-09-2024 21:05 [INFO] - Course: Mini-Curso: Riverpod providers con anotaciones
+06-09-2024 21:05 [INFO] - Course: Zustand: Gestor de estado para React
+06-09-2024 21:05 [INFO] - Course: Mini-Curso: Flutter BLoC
+06-09-2024 21:05 [INFO] - Course: Node - Autenticación Rest con Clean Architecture
+06-09-2024 21:05 [INFO] - Course: Legacy - Angular (V14): De cero a experto
+06-09-2024 21:05 [INFO] - Course: Legacy - Angular Avanzado: Lleva tus bases al siguiente nivel - MEAN
+06-09-2024 21:05 [INFO] - Course: Legacy - React (v16, 17): De cero a experto
+06-09-2024 21:05 [INFO] - Course: Legacy - Node: De cero a experto
+06-09-2024 21:05 [INFO] - Course: Legacy - React Native: Aplicaciones nativas para IOS y Android
+06-09-2024 21:12 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 21:12 [INFO] - Page title: DevTalles
+06-09-2024 21:13 [INFO] - Course: Angular de cero a experto
+06-09-2024 21:13 [INFO] - Course: Dart: De cero hasta los detalles
+06-09-2024 21:13 [INFO] - Course: Docker - Guía práctica de uso para desarrolladores
+06-09-2024 21:13 [INFO] - Course: Flutter - Móvil: De cero a experto
+06-09-2024 21:13 [INFO] - Course: Flutter Avanzado: Lleva tu conocimiento al siguiente nivel
+06-09-2024 21:13 [INFO] - Course: Flutter Intermedio: Diseños profesionales y animaciones
+06-09-2024 21:13 [INFO] - Course: Flutter Móvil: Recursos Nativos - Nivel Intermedio
+06-09-2024 21:13 [INFO] - Course: Flutter Web: Aplicaciones y páginas web profesionales
+06-09-2024 21:13 [INFO] - Course: GIT+GitHub: Todo un sistema de control de versiones de cero
+06-09-2024 21:13 [INFO] - Course: JavaScript Moderno: Guía para dominar el lenguaje
+06-09-2024 21:13 [INFO] - Course: Nest + GraphQL: Evoluciona tus APIs.
+06-09-2024 21:13 [INFO] - Course: Nest: Desarrollo backend escalable con Node
+06-09-2024 21:13 [INFO] - Course: NestJS + Microservicios: Aplicaciones escalables y modulares
+06-09-2024 21:13 [INFO] - Course: NestJs + Reportes: Genera PDFs desde Node
+06-09-2024 21:13 [INFO] - Course: Next.js Tradicional: con PagesRouter
+06-09-2024 21:13 [INFO] - Course: Next.js: El framework de React para producción
+06-09-2024 21:13 [INFO] - Course: Node.Js: De cero a experto
+06-09-2024 21:13 [INFO] - Course: OpenAI: Ejercicios prácticos y asistentes con React + NestJS
+06-09-2024 21:13 [INFO] - Course: OpenAI: Ejercicios y asistentes con Angular + NestJS
+06-09-2024 21:13 [INFO] - Course: Principios SOLID y Clean Code
+06-09-2024 21:13 [INFO] - Course: Programación para principiantes - Primeros pasos
+06-09-2024 21:13 [INFO] - Course: PWA - Aplicaciones Web Progresivas: De cero a experto
+06-09-2024 21:13 [INFO] - Course: React Native CLI: Aplicaciones nativas para IOS y Android
+06-09-2024 21:13 [INFO] - Course: React PRO: Lleva tus bases al siguiente nivel
+06-09-2024 21:13 [INFO] - Course: React: Aplicaciones en tiempo real con Socket-io
+06-09-2024 21:13 [INFO] - Course: React: De cero a experto ( Hooks y MERN )
+06-09-2024 21:13 [INFO] - Course: ReactiveX - RxJs: De cero hasta los detalles
+06-09-2024 21:13 [INFO] - Course: SQL de cero: Tu guía práctica con PostgreSQL
+06-09-2024 21:13 [INFO] - Course: TypeScript: Tu completa guía y manual de mano.
+06-09-2024 21:13 [INFO] - Course: Vue.js - de Cero a Experto: Composition Api
+06-09-2024 21:13 [INFO] - Course: Vue.js Tradicional: Options API
+06-09-2024 21:13 [INFO] - Course: Vue.js - Intermedio: Lleva tus bases al siguiente nivel
+06-09-2024 21:13 [INFO] - Course: Qwik - Introducción al Framework
+06-09-2024 21:13 [INFO] - Course: TanStack Query - Un poderoso gestor de estado asíncrono.
+06-09-2024 21:13 [INFO] - Course: Mini-Curso: Riverpod providers con anotaciones
+06-09-2024 21:13 [INFO] - Course: Visual Studio Code: Mejora tu velocidad para codificar
+06-09-2024 21:13 [INFO] - Course: Shadcn/ui: Componentes accesibles y personalizables
+06-09-2024 21:13 [INFO] - Course: Mini-Curso: Riverpod providers con anotaciones
+06-09-2024 21:13 [INFO] - Course: Zustand: Gestor de estado para React
+06-09-2024 21:13 [INFO] - Course: Mini-Curso: Flutter BLoC
+06-09-2024 21:13 [INFO] - Course: Node - Autenticación Rest con Clean Architecture
+06-09-2024 21:13 [INFO] - Course: Legacy - Angular (V14): De cero a experto
+06-09-2024 21:13 [INFO] - Course: Legacy - Angular Avanzado: Lleva tus bases al siguiente nivel - MEAN
+06-09-2024 21:13 [INFO] - Course: Legacy - React (v16, 17): De cero a experto
+06-09-2024 21:13 [INFO] - Course: Legacy - Node: De cero a experto
+06-09-2024 21:13 [INFO] - Course: Legacy - React Native: Aplicaciones nativas para IOS y Android
+06-09-2024 21:14 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 21:14 [INFO] - Page title: DevTalles
+06-09-2024 21:14 [INFO] - Course: Angular de cero a experto
+06-09-2024 21:14 [INFO] - Course: Dart: De cero hasta los detalles
+06-09-2024 21:14 [INFO] - Course: Docker - Guía práctica de uso para desarrolladores
+06-09-2024 21:14 [INFO] - Course: Flutter - Móvil: De cero a experto
+06-09-2024 21:14 [INFO] - Course: Flutter Avanzado: Lleva tu conocimiento al siguiente nivel
+06-09-2024 21:14 [INFO] - Course: Flutter Intermedio: Diseños profesionales y animaciones
+06-09-2024 21:14 [INFO] - Course: Flutter Móvil: Recursos Nativos - Nivel Intermedio
+06-09-2024 21:14 [INFO] - Course: Flutter Web: Aplicaciones y páginas web profesionales
+06-09-2024 21:14 [INFO] - Course: GIT+GitHub: Todo un sistema de control de versiones de cero
+06-09-2024 21:14 [INFO] - Course: JavaScript Moderno: Guía para dominar el lenguaje
+06-09-2024 21:14 [INFO] - Course: Nest + GraphQL: Evoluciona tus APIs.
+06-09-2024 21:14 [INFO] - Course: Nest: Desarrollo backend escalable con Node
+06-09-2024 21:14 [INFO] - Course: NestJS + Microservicios: Aplicaciones escalables y modulares
+06-09-2024 21:14 [INFO] - Course: NestJs + Reportes: Genera PDFs desde Node
+06-09-2024 21:14 [INFO] - Course: Next.js Tradicional: con PagesRouter
+06-09-2024 21:14 [INFO] - Course: Next.js: El framework de React para producción
+06-09-2024 21:14 [INFO] - Course: Node.Js: De cero a experto
+06-09-2024 21:14 [INFO] - Course: OpenAI: Ejercicios prácticos y asistentes con React + NestJS
+06-09-2024 21:14 [INFO] - Course: OpenAI: Ejercicios y asistentes con Angular + NestJS
+06-09-2024 21:14 [INFO] - Course: Principios SOLID y Clean Code
+06-09-2024 21:14 [INFO] - Course: Programación para principiantes - Primeros pasos
+06-09-2024 21:14 [INFO] - Course: PWA - Aplicaciones Web Progresivas: De cero a experto
+06-09-2024 21:14 [INFO] - Course: React Native CLI: Aplicaciones nativas para IOS y Android
+06-09-2024 21:14 [INFO] - Course: React PRO: Lleva tus bases al siguiente nivel
+06-09-2024 21:14 [INFO] - Course: React: Aplicaciones en tiempo real con Socket-io
+06-09-2024 21:14 [INFO] - Course: React: De cero a experto ( Hooks y MERN )
+06-09-2024 21:14 [INFO] - Course: ReactiveX - RxJs: De cero hasta los detalles
+06-09-2024 21:14 [INFO] - Course: SQL de cero: Tu guía práctica con PostgreSQL
+06-09-2024 21:14 [INFO] - Course: TypeScript: Tu completa guía y manual de mano.
+06-09-2024 21:14 [INFO] - Course: Vue.js - de Cero a Experto: Composition Api
+06-09-2024 21:14 [INFO] - Course: Vue.js Tradicional: Options API
+06-09-2024 21:14 [INFO] - Course: Vue.js - Intermedio: Lleva tus bases al siguiente nivel
+06-09-2024 21:14 [INFO] - Course: Qwik - Introducción al Framework
+06-09-2024 21:14 [INFO] - Course: TanStack Query - Un poderoso gestor de estado asíncrono.
+06-09-2024 21:14 [INFO] - Course: Mini-Curso: Riverpod providers con anotaciones
+06-09-2024 21:14 [INFO] - Course: Visual Studio Code: Mejora tu velocidad para codificar
+06-09-2024 21:14 [INFO] - Course: Shadcn/ui: Componentes accesibles y personalizables
+06-09-2024 21:14 [INFO] - Course: Mini-Curso: Riverpod providers con anotaciones
+06-09-2024 21:14 [INFO] - Course: Zustand: Gestor de estado para React
+06-09-2024 21:14 [INFO] - Course: Mini-Curso: Flutter BLoC
+06-09-2024 21:14 [INFO] - Course: Node - Autenticación Rest con Clean Architecture
+06-09-2024 21:14 [INFO] - Course: Legacy - Angular (V14): De cero a experto
+06-09-2024 21:14 [INFO] - Course: Legacy - Angular Avanzado: Lleva tus bases al siguiente nivel - MEAN
+06-09-2024 21:14 [INFO] - Course: Legacy - React (v16, 17): De cero a experto
+06-09-2024 21:14 [INFO] - Course: Legacy - Node: De cero a experto
+06-09-2024 21:14 [INFO] - Course: Legacy - React Native: Aplicaciones nativas para IOS y Android
+06-09-2024 21:15 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 21:15 [INFO] - Page title: DevTalles
+06-09-2024 21:15 [INFO] - Course: Angular de cero a experto
+06-09-2024 21:15 [INFO] - Course: Dart: De cero hasta los detalles
+06-09-2024 21:15 [INFO] - Course: Docker - Guía práctica de uso para desarrolladores
+06-09-2024 21:15 [INFO] - Course: Flutter - Móvil: De cero a experto
+06-09-2024 21:15 [INFO] - Course: Flutter Avanzado: Lleva tu conocimiento al siguiente nivel
+06-09-2024 21:15 [INFO] - Course: Flutter Intermedio: Diseños profesionales y animaciones
+06-09-2024 21:15 [INFO] - Course: Flutter Móvil: Recursos Nativos - Nivel Intermedio
+06-09-2024 21:15 [INFO] - Course: Flutter Web: Aplicaciones y páginas web profesionales
+06-09-2024 21:15 [INFO] - Course: GIT+GitHub: Todo un sistema de control de versiones de cero
+06-09-2024 21:15 [INFO] - Course: JavaScript Moderno: Guía para dominar el lenguaje
+06-09-2024 21:15 [INFO] - Course: Nest + GraphQL: Evoluciona tus APIs.
+06-09-2024 21:15 [INFO] - Course: Nest: Desarrollo backend escalable con Node
+06-09-2024 21:15 [INFO] - Course: NestJS + Microservicios: Aplicaciones escalables y modulares
+06-09-2024 21:15 [INFO] - Course: NestJs + Reportes: Genera PDFs desde Node
+06-09-2024 21:15 [INFO] - Course: Next.js Tradicional: con PagesRouter
+06-09-2024 21:15 [INFO] - Course: Next.js: El framework de React para producción
+06-09-2024 21:15 [INFO] - Course: Node.Js: De cero a experto
+06-09-2024 21:15 [INFO] - Course: OpenAI: Ejercicios prácticos y asistentes con React + NestJS
+06-09-2024 21:15 [INFO] - Course: OpenAI: Ejercicios y asistentes con Angular + NestJS
+06-09-2024 21:15 [INFO] - Course: Principios SOLID y Clean Code
+06-09-2024 21:15 [INFO] - Course: Programación para principiantes - Primeros pasos
+06-09-2024 21:15 [INFO] - Course: PWA - Aplicaciones Web Progresivas: De cero a experto
+06-09-2024 21:15 [INFO] - Course: React Native CLI: Aplicaciones nativas para IOS y Android
+06-09-2024 21:15 [INFO] - Course: React PRO: Lleva tus bases al siguiente nivel
+06-09-2024 21:15 [INFO] - Course: React: Aplicaciones en tiempo real con Socket-io
+06-09-2024 21:15 [INFO] - Course: React: De cero a experto ( Hooks y MERN )
+06-09-2024 21:15 [INFO] - Course: ReactiveX - RxJs: De cero hasta los detalles
+06-09-2024 21:15 [INFO] - Course: SQL de cero: Tu guía práctica con PostgreSQL
+06-09-2024 21:15 [INFO] - Course: TypeScript: Tu completa guía y manual de mano.
+06-09-2024 21:15 [INFO] - Course: Vue.js - de Cero a Experto: Composition Api
+06-09-2024 21:15 [INFO] - Course: Vue.js Tradicional: Options API
+06-09-2024 21:15 [INFO] - Course: Vue.js - Intermedio: Lleva tus bases al siguiente nivel
+06-09-2024 21:15 [INFO] - Course: Qwik - Introducción al Framework
+06-09-2024 21:15 [INFO] - Course: TanStack Query - Un poderoso gestor de estado asíncrono.
+06-09-2024 21:15 [INFO] - Course: Mini-Curso: Riverpod providers con anotaciones
+06-09-2024 21:15 [INFO] - Course: Visual Studio Code: Mejora tu velocidad para codificar
+06-09-2024 21:15 [INFO] - Course: Shadcn/ui: Componentes accesibles y personalizables
+06-09-2024 21:15 [INFO] - Course: Mini-Curso: Riverpod providers con anotaciones
+06-09-2024 21:15 [INFO] - Course: Zustand: Gestor de estado para React
+06-09-2024 21:15 [INFO] - Course: Mini-Curso: Flutter BLoC
+06-09-2024 21:15 [INFO] - Course: Node - Autenticación Rest con Clean Architecture
+06-09-2024 21:15 [INFO] - Course: Legacy - Angular (V14): De cero a experto
+06-09-2024 21:15 [INFO] - Course: Legacy - Angular Avanzado: Lleva tus bases al siguiente nivel - MEAN
+06-09-2024 21:15 [INFO] - Course: Legacy - React (v16, 17): De cero a experto
+06-09-2024 21:15 [INFO] - Course: Legacy - Node: De cero a experto
+06-09-2024 21:15 [INFO] - Course: Legacy - React Native: Aplicaciones nativas para IOS y Android
+06-09-2024 21:18 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 21:18 [INFO] - Page title: DevTalles
+06-09-2024 21:18 [INFO] - Course: Angular de cero a experto
+06-09-2024 21:18 [INFO] - Course: Dart: De cero hasta los detalles
+06-09-2024 21:18 [INFO] - Course: Docker - Guía práctica de uso para desarrolladores
+06-09-2024 21:18 [INFO] - Course: Flutter - Móvil: De cero a experto
+06-09-2024 21:18 [INFO] - Course: Flutter Avanzado: Lleva tu conocimiento al siguiente nivel
+06-09-2024 21:18 [INFO] - Course: Flutter Intermedio: Diseños profesionales y animaciones
+06-09-2024 21:18 [INFO] - Course: Flutter Móvil: Recursos Nativos - Nivel Intermedio
+06-09-2024 21:18 [INFO] - Course: Flutter Web: Aplicaciones y páginas web profesionales
+06-09-2024 21:18 [INFO] - Course: GIT+GitHub: Todo un sistema de control de versiones de cero
+06-09-2024 21:18 [INFO] - Course: JavaScript Moderno: Guía para dominar el lenguaje
+06-09-2024 21:18 [INFO] - Course: Nest + GraphQL: Evoluciona tus APIs.
+06-09-2024 21:18 [INFO] - Course: Nest: Desarrollo backend escalable con Node
+06-09-2024 21:18 [INFO] - Course: NestJS + Microservicios: Aplicaciones escalables y modulares
+06-09-2024 21:18 [INFO] - Course: NestJs + Reportes: Genera PDFs desde Node
+06-09-2024 21:18 [INFO] - Course: Next.js Tradicional: con PagesRouter
+06-09-2024 21:18 [INFO] - Course: Next.js: El framework de React para producción
+06-09-2024 21:18 [INFO] - Course: Node.Js: De cero a experto
+06-09-2024 21:18 [INFO] - Course: OpenAI: Ejercicios prácticos y asistentes con React + NestJS
+06-09-2024 21:18 [INFO] - Course: OpenAI: Ejercicios y asistentes con Angular + NestJS
+06-09-2024 21:18 [INFO] - Course: Principios SOLID y Clean Code
+06-09-2024 21:18 [INFO] - Course: Programación para principiantes - Primeros pasos
+06-09-2024 21:18 [INFO] - Course: PWA - Aplicaciones Web Progresivas: De cero a experto
+06-09-2024 21:18 [INFO] - Course: React Native CLI: Aplicaciones nativas para IOS y Android
+06-09-2024 21:18 [INFO] - Course: React PRO: Lleva tus bases al siguiente nivel
+06-09-2024 21:18 [INFO] - Course: React: Aplicaciones en tiempo real con Socket-io
+06-09-2024 21:18 [INFO] - Course: React: De cero a experto ( Hooks y MERN )
+06-09-2024 21:18 [INFO] - Course: ReactiveX - RxJs: De cero hasta los detalles
+06-09-2024 21:18 [INFO] - Course: SQL de cero: Tu guía práctica con PostgreSQL
+06-09-2024 21:18 [INFO] - Course: TypeScript: Tu completa guía y manual de mano.
+06-09-2024 21:18 [INFO] - Course: Vue.js - de Cero a Experto: Composition Api
+06-09-2024 21:18 [INFO] - Course: Vue.js Tradicional: Options API
+06-09-2024 21:18 [INFO] - Course: Vue.js - Intermedio: Lleva tus bases al siguiente nivel
+06-09-2024 21:18 [INFO] - Course: Qwik - Introducción al Framework
+06-09-2024 21:18 [INFO] - Course: TanStack Query - Un poderoso gestor de estado asíncrono.
+06-09-2024 21:18 [INFO] - Course: Mini-Curso: Riverpod providers con anotaciones
+06-09-2024 21:18 [INFO] - Course: Visual Studio Code: Mejora tu velocidad para codificar
+06-09-2024 21:18 [INFO] - Course: Shadcn/ui: Componentes accesibles y personalizables
+06-09-2024 21:18 [INFO] - Course: Mini-Curso: Riverpod providers con anotaciones
+06-09-2024 21:18 [INFO] - Course: Zustand: Gestor de estado para React
+06-09-2024 21:18 [INFO] - Course: Mini-Curso: Flutter BLoC
+06-09-2024 21:18 [INFO] - Course: Node - Autenticación Rest con Clean Architecture
+06-09-2024 21:18 [INFO] - Course: Legacy - Angular (V14): De cero a experto
+06-09-2024 21:18 [INFO] - Course: Legacy - Angular Avanzado: Lleva tus bases al siguiente nivel - MEAN
+06-09-2024 21:18 [INFO] - Course: Legacy - React (v16, 17): De cero a experto
+06-09-2024 21:18 [INFO] - Course: Legacy - Node: De cero a experto
+06-09-2024 21:18 [INFO] - Course: Legacy - React Native: Aplicaciones nativas para IOS y Android
+06-09-2024 21:19 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 21:19 [INFO] - Page title: DevTalles
+06-09-2024 21:19 [INFO] - Course: Angular de cero a experto
+06-09-2024 21:19 [INFO] - Course: Dart: De cero hasta los detalles
+06-09-2024 21:19 [INFO] - Course: Docker - Guía práctica de uso para desarrolladores
+06-09-2024 21:19 [INFO] - Course: Flutter - Móvil: De cero a experto
+06-09-2024 21:19 [INFO] - Course: Flutter Avanzado: Lleva tu conocimiento al siguiente nivel
+06-09-2024 21:19 [INFO] - Course: Flutter Intermedio: Diseños profesionales y animaciones
+06-09-2024 21:19 [INFO] - Course: Flutter Móvil: Recursos Nativos - Nivel Intermedio
+06-09-2024 21:19 [INFO] - Course: Flutter Web: Aplicaciones y páginas web profesionales
+06-09-2024 21:19 [INFO] - Course: GIT+GitHub: Todo un sistema de control de versiones de cero
+06-09-2024 21:19 [INFO] - Course: JavaScript Moderno: Guía para dominar el lenguaje
+06-09-2024 21:19 [INFO] - Course: Nest + GraphQL: Evoluciona tus APIs.
+06-09-2024 21:19 [INFO] - Course: Nest: Desarrollo backend escalable con Node
+06-09-2024 21:19 [INFO] - Course: NestJS + Microservicios: Aplicaciones escalables y modulares
+06-09-2024 21:19 [INFO] - Course: NestJs + Reportes: Genera PDFs desde Node
+06-09-2024 21:19 [INFO] - Course: Next.js Tradicional: con PagesRouter
+06-09-2024 21:19 [INFO] - Course: Next.js: El framework de React para producción
+06-09-2024 21:19 [INFO] - Course: Node.Js: De cero a experto
+06-09-2024 21:19 [INFO] - Course: OpenAI: Ejercicios prácticos y asistentes con React + NestJS
+06-09-2024 21:19 [INFO] - Course: OpenAI: Ejercicios y asistentes con Angular + NestJS
+06-09-2024 21:19 [INFO] - Course: Principios SOLID y Clean Code
+06-09-2024 21:19 [INFO] - Course: Programación para principiantes - Primeros pasos
+06-09-2024 21:19 [INFO] - Course: PWA - Aplicaciones Web Progresivas: De cero a experto
+06-09-2024 21:19 [INFO] - Course: React Native CLI: Aplicaciones nativas para IOS y Android
+06-09-2024 21:19 [INFO] - Course: React PRO: Lleva tus bases al siguiente nivel
+06-09-2024 21:19 [INFO] - Course: React: Aplicaciones en tiempo real con Socket-io
+06-09-2024 21:19 [INFO] - Course: React: De cero a experto ( Hooks y MERN )
+06-09-2024 21:19 [INFO] - Course: ReactiveX - RxJs: De cero hasta los detalles
+06-09-2024 21:19 [INFO] - Course: SQL de cero: Tu guía práctica con PostgreSQL
+06-09-2024 21:19 [INFO] - Course: TypeScript: Tu completa guía y manual de mano.
+06-09-2024 21:19 [INFO] - Course: Vue.js - de Cero a Experto: Composition Api
+06-09-2024 21:19 [INFO] - Course: Vue.js Tradicional: Options API
+06-09-2024 21:19 [INFO] - Course: Vue.js - Intermedio: Lleva tus bases al siguiente nivel
+06-09-2024 21:19 [INFO] - Course: Qwik - Introducción al Framework
+06-09-2024 21:19 [INFO] - Course: TanStack Query - Un poderoso gestor de estado asíncrono.
+06-09-2024 21:19 [INFO] - Course: Mini-Curso: Riverpod providers con anotaciones
+06-09-2024 21:19 [INFO] - Course: Visual Studio Code: Mejora tu velocidad para codificar
+06-09-2024 21:19 [INFO] - Course: Shadcn/ui: Componentes accesibles y personalizables
+06-09-2024 21:19 [INFO] - Course: Mini-Curso: Riverpod providers con anotaciones
+06-09-2024 21:19 [INFO] - Course: Zustand: Gestor de estado para React
+06-09-2024 21:19 [INFO] - Course: Mini-Curso: Flutter BLoC
+06-09-2024 21:19 [INFO] - Course: Node - Autenticación Rest con Clean Architecture
+06-09-2024 21:19 [INFO] - Course: Legacy - Angular (V14): De cero a experto
+06-09-2024 21:19 [INFO] - Course: Legacy - Angular Avanzado: Lleva tus bases al siguiente nivel - MEAN
+06-09-2024 21:19 [INFO] - Course: Legacy - React (v16, 17): De cero a experto
+06-09-2024 21:19 [INFO] - Course: Legacy - Node: De cero a experto
+06-09-2024 21:19 [INFO] - Course: Legacy - React Native: Aplicaciones nativas para IOS y Android
+06-09-2024 21:22 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 21:22 [INFO] - Page title: DevTalles
+06-09-2024 21:22 [INFO] - Course: Angular de cero a experto
+06-09-2024 21:22 [INFO] - Course: Dart: De cero hasta los detalles
+06-09-2024 21:22 [INFO] - Course: Docker - Guía práctica de uso para desarrolladores
+06-09-2024 21:22 [INFO] - Course: Flutter - Móvil: De cero a experto
+06-09-2024 21:22 [INFO] - Course: Flutter Avanzado: Lleva tu conocimiento al siguiente nivel
+06-09-2024 21:22 [INFO] - Course: Flutter Intermedio: Diseños profesionales y animaciones
+06-09-2024 21:22 [INFO] - Course: Flutter Móvil: Recursos Nativos - Nivel Intermedio
+06-09-2024 21:22 [INFO] - Course: Flutter Web: Aplicaciones y páginas web profesionales
+06-09-2024 21:22 [INFO] - Course: GIT+GitHub: Todo un sistema de control de versiones de cero
+06-09-2024 21:22 [INFO] - Course: JavaScript Moderno: Guía para dominar el lenguaje
+06-09-2024 21:22 [INFO] - Course: Nest + GraphQL: Evoluciona tus APIs.
+06-09-2024 21:22 [INFO] - Course: Nest: Desarrollo backend escalable con Node
+06-09-2024 21:22 [INFO] - Course: NestJS + Microservicios: Aplicaciones escalables y modulares
+06-09-2024 21:22 [INFO] - Course: NestJs + Reportes: Genera PDFs desde Node
+06-09-2024 21:22 [INFO] - Course: Next.js Tradicional: con PagesRouter
+06-09-2024 21:22 [INFO] - Course: Next.js: El framework de React para producción
+06-09-2024 21:22 [INFO] - Course: Node.Js: De cero a experto
+06-09-2024 21:22 [INFO] - Course: OpenAI: Ejercicios prácticos y asistentes con React + NestJS
+06-09-2024 21:22 [INFO] - Course: OpenAI: Ejercicios y asistentes con Angular + NestJS
+06-09-2024 21:22 [INFO] - Course: Principios SOLID y Clean Code
+06-09-2024 21:22 [INFO] - Course: Programación para principiantes - Primeros pasos
+06-09-2024 21:22 [INFO] - Course: PWA - Aplicaciones Web Progresivas: De cero a experto
+06-09-2024 21:22 [INFO] - Course: React Native CLI: Aplicaciones nativas para IOS y Android
+06-09-2024 21:22 [INFO] - Course: React PRO: Lleva tus bases al siguiente nivel
+06-09-2024 21:22 [INFO] - Course: React: Aplicaciones en tiempo real con Socket-io
+06-09-2024 21:22 [INFO] - Course: React: De cero a experto ( Hooks y MERN )
+06-09-2024 21:22 [INFO] - Course: ReactiveX - RxJs: De cero hasta los detalles
+06-09-2024 21:22 [INFO] - Course: SQL de cero: Tu guía práctica con PostgreSQL
+06-09-2024 21:22 [INFO] - Course: TypeScript: Tu completa guía y manual de mano.
+06-09-2024 21:22 [INFO] - Course: Vue.js - de Cero a Experto: Composition Api
+06-09-2024 21:22 [INFO] - Course: Vue.js Tradicional: Options API
+06-09-2024 21:22 [INFO] - Course: Vue.js - Intermedio: Lleva tus bases al siguiente nivel
+06-09-2024 21:22 [INFO] - Course: Qwik - Introducción al Framework
+06-09-2024 21:22 [INFO] - Course: TanStack Query - Un poderoso gestor de estado asíncrono.
+06-09-2024 21:22 [INFO] - Course: Mini-Curso: Riverpod providers con anotaciones
+06-09-2024 21:22 [INFO] - Course: Visual Studio Code: Mejora tu velocidad para codificar
+06-09-2024 21:22 [INFO] - Course: Shadcn/ui: Componentes accesibles y personalizables
+06-09-2024 21:22 [INFO] - Course: Mini-Curso: Riverpod providers con anotaciones
+06-09-2024 21:22 [INFO] - Course: Zustand: Gestor de estado para React
+06-09-2024 21:22 [INFO] - Course: Mini-Curso: Flutter BLoC
+06-09-2024 21:22 [INFO] - Course: Node - Autenticación Rest con Clean Architecture
+06-09-2024 21:22 [INFO] - Course: Legacy - Angular (V14): De cero a experto
+06-09-2024 21:22 [INFO] - Course: Legacy - Angular Avanzado: Lleva tus bases al siguiente nivel - MEAN
+06-09-2024 21:22 [INFO] - Course: Legacy - React (v16, 17): De cero a experto
+06-09-2024 21:22 [INFO] - Course: Legacy - Node: De cero a experto
+06-09-2024 21:22 [INFO] - Course: Legacy - React Native: Aplicaciones nativas para IOS y Android
+06-09-2024 21:25 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 21:25 [INFO] - Page title: DevTalles
+06-09-2024 21:25 [INFO] - Course: Angular de cero a experto
+06-09-2024 21:25 [INFO] - Course: Dart: De cero hasta los detalles
+06-09-2024 21:25 [INFO] - Course: Docker - Guía práctica de uso para desarrolladores
+06-09-2024 21:25 [INFO] - Course: Flutter - Móvil: De cero a experto
+06-09-2024 21:25 [INFO] - Course: Flutter Avanzado: Lleva tu conocimiento al siguiente nivel
+06-09-2024 21:25 [INFO] - Course: Flutter Intermedio: Diseños profesionales y animaciones
+06-09-2024 21:25 [INFO] - Course: Flutter Móvil: Recursos Nativos - Nivel Intermedio
+06-09-2024 21:25 [INFO] - Course: Flutter Web: Aplicaciones y páginas web profesionales
+06-09-2024 21:25 [INFO] - Course: GIT+GitHub: Todo un sistema de control de versiones de cero
+06-09-2024 21:25 [INFO] - Course: JavaScript Moderno: Guía para dominar el lenguaje
+06-09-2024 21:25 [INFO] - Course: Nest + GraphQL: Evoluciona tus APIs.
+06-09-2024 21:25 [INFO] - Course: Nest: Desarrollo backend escalable con Node
+06-09-2024 21:25 [INFO] - Course: NestJS + Microservicios: Aplicaciones escalables y modulares
+06-09-2024 21:25 [INFO] - Course: NestJs + Reportes: Genera PDFs desde Node
+06-09-2024 21:25 [INFO] - Course: Next.js Tradicional: con PagesRouter
+06-09-2024 21:25 [INFO] - Course: Next.js: El framework de React para producción
+06-09-2024 21:25 [INFO] - Course: Node.Js: De cero a experto
+06-09-2024 21:25 [INFO] - Course: OpenAI: Ejercicios prácticos y asistentes con React + NestJS
+06-09-2024 21:25 [INFO] - Course: OpenAI: Ejercicios y asistentes con Angular + NestJS
+06-09-2024 21:25 [INFO] - Course: Principios SOLID y Clean Code
+06-09-2024 21:25 [INFO] - Course: Programación para principiantes - Primeros pasos
+06-09-2024 21:25 [INFO] - Course: PWA - Aplicaciones Web Progresivas: De cero a experto
+06-09-2024 21:25 [INFO] - Course: React Native CLI: Aplicaciones nativas para IOS y Android
+06-09-2024 21:25 [INFO] - Course: React PRO: Lleva tus bases al siguiente nivel
+06-09-2024 21:25 [INFO] - Course: React: Aplicaciones en tiempo real con Socket-io
+06-09-2024 21:25 [INFO] - Course: React: De cero a experto ( Hooks y MERN )
+06-09-2024 21:25 [INFO] - Course: ReactiveX - RxJs: De cero hasta los detalles
+06-09-2024 21:25 [INFO] - Course: SQL de cero: Tu guía práctica con PostgreSQL
+06-09-2024 21:25 [INFO] - Course: TypeScript: Tu completa guía y manual de mano.
+06-09-2024 21:25 [INFO] - Course: Vue.js - de Cero a Experto: Composition Api
+06-09-2024 21:25 [INFO] - Course: Vue.js Tradicional: Options API
+06-09-2024 21:25 [INFO] - Course: Vue.js - Intermedio: Lleva tus bases al siguiente nivel
+06-09-2024 21:25 [INFO] - Course: Qwik - Introducción al Framework
+06-09-2024 21:25 [INFO] - Course: TanStack Query - Un poderoso gestor de estado asíncrono.
+06-09-2024 21:25 [INFO] - Course: Mini-Curso: Riverpod providers con anotaciones
+06-09-2024 21:25 [INFO] - Course: Visual Studio Code: Mejora tu velocidad para codificar
+06-09-2024 21:25 [INFO] - Course: Shadcn/ui: Componentes accesibles y personalizables
+06-09-2024 21:25 [INFO] - Course: Mini-Curso: Riverpod providers con anotaciones
+06-09-2024 21:25 [INFO] - Course: Zustand: Gestor de estado para React
+06-09-2024 21:25 [INFO] - Course: Mini-Curso: Flutter BLoC
+06-09-2024 21:25 [INFO] - Course: Node - Autenticación Rest con Clean Architecture
+06-09-2024 21:25 [INFO] - Course: Legacy - Angular (V14): De cero a experto
+06-09-2024 21:25 [INFO] - Course: Legacy - Angular Avanzado: Lleva tus bases al siguiente nivel - MEAN
+06-09-2024 21:25 [INFO] - Course: Legacy - React (v16, 17): De cero a experto
+06-09-2024 21:25 [INFO] - Course: Legacy - Node: De cero a experto
+06-09-2024 21:25 [INFO] - Course: Legacy - React Native: Aplicaciones nativas para IOS y Android
+06-09-2024 21:27 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 21:27 [INFO] - Page title: DevTalles
+06-09-2024 21:27 [INFO] - Course: Angular de cero a experto
+06-09-2024 21:27 [INFO] - Course: Dart: De cero hasta los detalles
+06-09-2024 21:27 [INFO] - Course: Docker - Guía práctica de uso para desarrolladores
+06-09-2024 21:27 [INFO] - Course: Flutter - Móvil: De cero a experto
+06-09-2024 21:27 [INFO] - Course: Flutter Avanzado: Lleva tu conocimiento al siguiente nivel
+06-09-2024 21:27 [INFO] - Course: Flutter Intermedio: Diseños profesionales y animaciones
+06-09-2024 21:27 [INFO] - Course: Flutter Móvil: Recursos Nativos - Nivel Intermedio
+06-09-2024 21:27 [INFO] - Course: Flutter Web: Aplicaciones y páginas web profesionales
+06-09-2024 21:27 [INFO] - Course: GIT+GitHub: Todo un sistema de control de versiones de cero
+06-09-2024 21:27 [INFO] - Course: JavaScript Moderno: Guía para dominar el lenguaje
+06-09-2024 21:27 [INFO] - Course: Nest + GraphQL: Evoluciona tus APIs.
+06-09-2024 21:27 [INFO] - Course: Nest: Desarrollo backend escalable con Node
+06-09-2024 21:27 [INFO] - Course: NestJS + Microservicios: Aplicaciones escalables y modulares
+06-09-2024 21:27 [INFO] - Course: NestJs + Reportes: Genera PDFs desde Node
+06-09-2024 21:27 [INFO] - Course: Next.js Tradicional: con PagesRouter
+06-09-2024 21:27 [INFO] - Course: Next.js: El framework de React para producción
+06-09-2024 21:27 [INFO] - Course: Node.Js: De cero a experto
+06-09-2024 21:27 [INFO] - Course: OpenAI: Ejercicios prácticos y asistentes con React + NestJS
+06-09-2024 21:27 [INFO] - Course: OpenAI: Ejercicios y asistentes con Angular + NestJS
+06-09-2024 21:27 [INFO] - Course: Principios SOLID y Clean Code
+06-09-2024 21:27 [INFO] - Course: Programación para principiantes - Primeros pasos
+06-09-2024 21:27 [INFO] - Course: PWA - Aplicaciones Web Progresivas: De cero a experto
+06-09-2024 21:27 [INFO] - Course: React Native CLI: Aplicaciones nativas para IOS y Android
+06-09-2024 21:27 [INFO] - Course: React PRO: Lleva tus bases al siguiente nivel
+06-09-2024 21:27 [INFO] - Course: React: Aplicaciones en tiempo real con Socket-io
+06-09-2024 21:27 [INFO] - Course: React: De cero a experto ( Hooks y MERN )
+06-09-2024 21:27 [INFO] - Course: ReactiveX - RxJs: De cero hasta los detalles
+06-09-2024 21:27 [INFO] - Course: SQL de cero: Tu guía práctica con PostgreSQL
+06-09-2024 21:27 [INFO] - Course: TypeScript: Tu completa guía y manual de mano.
+06-09-2024 21:27 [INFO] - Course: Vue.js - de Cero a Experto: Composition Api
+06-09-2024 21:27 [INFO] - Course: Vue.js Tradicional: Options API
+06-09-2024 21:27 [INFO] - Course: Vue.js - Intermedio: Lleva tus bases al siguiente nivel
+06-09-2024 21:27 [INFO] - Course: Qwik - Introducción al Framework
+06-09-2024 21:27 [INFO] - Course: TanStack Query - Un poderoso gestor de estado asíncrono.
+06-09-2024 21:27 [INFO] - Course: Mini-Curso: Riverpod providers con anotaciones
+06-09-2024 21:27 [INFO] - Course: Visual Studio Code: Mejora tu velocidad para codificar
+06-09-2024 21:27 [INFO] - Course: Shadcn/ui: Componentes accesibles y personalizables
+06-09-2024 21:27 [INFO] - Course: Mini-Curso: Riverpod providers con anotaciones
+06-09-2024 21:27 [INFO] - Course: Zustand: Gestor de estado para React
+06-09-2024 21:27 [INFO] - Course: Mini-Curso: Flutter BLoC
+06-09-2024 21:27 [INFO] - Course: Node - Autenticación Rest con Clean Architecture
+06-09-2024 21:27 [INFO] - Course: Legacy - Angular (V14): De cero a experto
+06-09-2024 21:27 [INFO] - Course: Legacy - Angular Avanzado: Lleva tus bases al siguiente nivel - MEAN
+06-09-2024 21:27 [INFO] - Course: Legacy - React (v16, 17): De cero a experto
+06-09-2024 21:27 [INFO] - Course: Legacy - Node: De cero a experto
+06-09-2024 21:27 [INFO] - Course: Legacy - React Native: Aplicaciones nativas para IOS y Android
+06-09-2024 21:28 [INFO] - Getting course: Flutter - Móvil: De cero a experto
+06-09-2024 21:29 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 21:29 [INFO] - Page title: DevTalles
+06-09-2024 21:29 [INFO] - Getting course: Dart: De cero hasta los detalles
+06-09-2024 21:37 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 21:37 [INFO] - Page title: DevTalles
+06-09-2024 21:37 [INFO] - Getting course: JavaScript Moderno: Guía para dominar el lenguaje
+06-09-2024 21:39 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 21:39 [INFO] - Page title: DevTalles
+06-09-2024 21:40 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 21:40 [INFO] - Page title: DevTalles
+06-09-2024 21:40 [INFO] - Getting course: Vue.js Tradicional: Options API
+06-09-2024 21:41 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+06-09-2024 21:41 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 21:41 [INFO] - Page title: DevTalles
+06-09-2024 21:41 [INFO] - Getting course: Flutter Intermedio: Diseños profesionales y animaciones
+06-09-2024 21:42 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+06-09-2024 21:42 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 21:42 [INFO] - Page title: DevTalles
+06-09-2024 21:42 [INFO] - Getting course: Flutter Avanzado: Lleva tu conocimiento al siguiente nivel
+06-09-2024 21:43 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+06-09-2024 21:43 [INFO] - Getting courses from https://cursos.devtalles.com/
+06-09-2024 21:43 [INFO] - Page title: DevTalles
+06-09-2024 21:43 [INFO] - Getting course: Angular de cero a experto
+06-09-2024 21:44 [INFO] - Getting course: Dart: De cero hasta los detalles
+07-09-2024 00:46 [INFO] - Getting courses from https://cursos.devtalles.com/
+07-09-2024 00:46 [INFO] - Page title: DevTalles
+07-09-2024 00:46 [INFO] - Getting course: Flutter - Móvil: De cero a experto
+07-09-2024 00:56 [INFO] - Getting courses from https://cursos.devtalles.com/
+07-09-2024 00:56 [INFO] - Page title: DevTalles
+07-09-2024 00:56 [INFO] - Getting course: Dart: De cero hasta los detalles
+07-09-2024 13:00 [INFO] - Getting courses from https://cursos.devtalles.com/
+07-09-2024 13:00 [INFO] - Page title: DevTalles
+07-09-2024 13:00 [INFO] - Getting course: Flutter Intermedio: Diseños profesionales y animaciones
+07-09-2024 13:00 [INFO] - Chapter clicked: Sección 1: Introducción
+07-09-2024 13:00 [INFO] - Chapter clicked: Sección 2: Backgrounds - Custom Painter
+07-09-2024 13:00 [INFO] - Chapter clicked: Sección 3: Animaciones personalizadas
+07-09-2024 13:00 [INFO] - Chapter clicked: Sección 4: ProgressBar circular - Animated Custom Painter
+07-09-2024 13:00 [INFO] - Chapter clicked: Sección 5: Slideshow
+07-09-2024 13:00 [INFO] - Chapter clicked: Sección 6: Pinterest layout y menu
+07-09-2024 13:00 [INFO] - Chapter clicked: 
+07-09-2024 13:00 [INFO] - Chapter clicked: 
+07-09-2024 13:00 [INFO] - Chapter clicked: Sección 9: Animaciones con Animate_do
+07-09-2024 13:00 [INFO] - Chapter clicked: Sección 10: Temas para nuestra aplicación
+07-09-2024 13:00 [INFO] - Chapter clicked: Sección 11: Diseño landscape, portrait y tablets
+07-09-2024 13:00 [INFO] - Chapter clicked: Sección 12: Aplicación de zapatos
+07-09-2024 13:00 [INFO] - Chapter clicked: Sección 13: MusicPlayer
+07-09-2024 13:00 [INFO] - Chapter clicked: Sección 14: PageTransitions - Transiciones entre pantallas
+07-09-2024 13:00 [INFO] - Chapter clicked: Sección 15: Fin del curso
+07-09-2024 13:04 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+07-09-2024 13:04 [INFO] - Getting courses from https://cursos.devtalles.com/
+07-09-2024 13:04 [INFO] - Page title: DevTalles
+07-09-2024 13:05 [INFO] - Getting course: Dart: De cero hasta los detalles
+07-09-2024 13:05 [INFO] - Chapter clicked: Sección 1: Introducción
+07-09-2024 13:05 [INFO] - Chapter clicked: Sección 2: Primeros pasos en Dart - Tipos de datos
+07-09-2024 13:05 [INFO] - Chapter clicked: Sección 3: Variables, comentarios y operadores
+07-09-2024 13:05 [INFO] - Chapter clicked: Sección 4: Control de flujo
+07-09-2024 13:05 [INFO] - Chapter clicked: Sección 5: Funciones en Dart
+07-09-2024 13:05 [INFO] - Chapter clicked: Sección 6: Tipos no tan comunes en Dart
+07-09-2024 13:05 [INFO] - Chapter clicked: 
+07-09-2024 13:05 [INFO] - Chapter clicked: 
+07-09-2024 13:05 [INFO] - Chapter clicked: 
+07-09-2024 13:05 [INFO] - Chapter clicked: 
+07-09-2024 13:05 [INFO] - Chapter clicked: 
+07-09-2024 13:06 [INFO] - Getting course: Angular de cero a experto
+07-09-2024 13:06 [INFO] - Chapter clicked: Sección 1: Introducción
+07-09-2024 13:06 [INFO] - Chapter clicked: Sección 2: Conceptos generales antes de empezar
+07-09-2024 13:06 [INFO] - Chapter clicked: Sección 3: Bases de TypeScript - Recomendado
+07-09-2024 13:06 [INFO] - Chapter clicked: Sección 4: Angular
+07-09-2024 13:06 [INFO] - Chapter clicked: Sección 5: Expandir Bases de Angular
+07-09-2024 13:06 [INFO] - Chapter clicked: Sección 6: Despliegues a producción
+07-09-2024 13:06 [INFO] - Chapter clicked: 
+07-09-2024 13:06 [INFO] - Chapter clicked: 
+07-09-2024 13:06 [INFO] - Chapter clicked: 
+07-09-2024 13:06 [INFO] - Chapter clicked: 
+07-09-2024 13:06 [INFO] - Chapter clicked: 
+07-09-2024 13:06 [INFO] - Chapter clicked: 
+07-09-2024 13:06 [INFO] - Chapter clicked: 
+07-09-2024 13:06 [INFO] - Chapter clicked: 
+07-09-2024 13:06 [INFO] - Chapter clicked: 
+07-09-2024 13:06 [INFO] - Chapter clicked: 
+07-09-2024 13:06 [INFO] - Chapter clicked: 
+07-09-2024 13:06 [INFO] - Chapter clicked: 
+07-09-2024 13:06 [INFO] - Chapter clicked: 
+07-09-2024 13:06 [INFO] - Chapter clicked: 
+07-09-2024 13:06 [INFO] - Chapter clicked: 
+07-09-2024 13:06 [INFO] - Chapter clicked: 
+07-09-2024 13:06 [INFO] - Chapter clicked: 
+07-09-2024 13:06 [INFO] - Chapter clicked: 
+07-09-2024 13:06 [INFO] - Chapter clicked: 
+07-09-2024 13:07 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+07-09-2024 13:07 [INFO] - Getting courses from https://cursos.devtalles.com/
+07-09-2024 13:07 [INFO] - Page title: DevTalles
+07-09-2024 13:08 [INFO] - Getting course: Docker - Guía práctica de uso para desarrolladores
+07-09-2024 13:08 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element <li class="course-curriculum__chapter
+                course-curriculum__chapter--collapsed
+                
+              ">...</li> is not clickable at point (699, 37). Other element would receive the click: <ul>...</ul>
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:08 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element <li class="course-curriculum__chapter
+                course-curriculum__chapter--collapsed
+                
+              ">...</li> is not clickable at point (699, 37). Other element would receive the click: <ul>...</ul>
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:08 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element <li class="course-curriculum__chapter
+                course-curriculum__chapter--collapsed
+                
+              ">...</li> is not clickable at point (699, 37). Other element would receive the click: <ul>...</ul>
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:08 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element <li class="course-curriculum__chapter
+                course-curriculum__chapter--collapsed
+                
+              ">...</li> is not clickable at point (699, 37). Other element would receive the click: <ul>...</ul>
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:08 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element <li class="course-curriculum__chapter
+                course-curriculum__chapter--collapsed
+                
+              ">...</li> is not clickable at point (699, 37). Other element would receive the click: <ul>...</ul>
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:08 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element <li class="course-curriculum__chapter
+                course-curriculum__chapter--collapsed
+                
+              ">...</li> is not clickable at point (699, 37). Other element would receive the click: <ul>...</ul>
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:08 [ERROR] - Error al expandir capítulo: Message: element not interactable
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8EFD5]
+	(No symbol) [0x00007FF798CD782D]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:08 [ERROR] - Error al expandir capítulo: Message: element not interactable
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8EFD5]
+	(No symbol) [0x00007FF798CD782D]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:08 [ERROR] - Error al expandir capítulo: Message: element not interactable
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8EFD5]
+	(No symbol) [0x00007FF798CD782D]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:08 [ERROR] - Error al expandir capítulo: Message: element not interactable
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8EFD5]
+	(No symbol) [0x00007FF798CD782D]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:08 [ERROR] - Error al expandir capítulo: Message: element not interactable
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8EFD5]
+	(No symbol) [0x00007FF798CD782D]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:08 [INFO] - Getting course: Nest + GraphQL: Evoluciona tus APIs.
+07-09-2024 13:08 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element <li class="course-curriculum__chapter
+                course-curriculum__chapter--collapsed
+                
+              ">...</li> is not clickable at point (699, 37). Other element would receive the click: <ul>...</ul>
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:08 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element <li class="course-curriculum__chapter
+                course-curriculum__chapter--collapsed
+                
+              ">...</li> is not clickable at point (699, 37). Other element would receive the click: <ul>...</ul>
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:08 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element <li class="course-curriculum__chapter
+                course-curriculum__chapter--collapsed
+                
+              ">...</li> is not clickable at point (699, 37). Other element would receive the click: <ul>...</ul>
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:09 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element <li class="course-curriculum__chapter
+                course-curriculum__chapter--collapsed
+                
+              ">...</li> is not clickable at point (699, 37). Other element would receive the click: <ul>...</ul>
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:09 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element <li class="course-curriculum__chapter
+                course-curriculum__chapter--collapsed
+                
+              ">...</li> is not clickable at point (699, 37). Other element would receive the click: <ul>...</ul>
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:09 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element <li class="course-curriculum__chapter
+                course-curriculum__chapter--collapsed
+                
+              ">...</li> is not clickable at point (699, 37). Other element would receive the click: <ul>...</ul>
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:09 [ERROR] - Error al expandir capítulo: Message: element not interactable
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8EFD5]
+	(No symbol) [0x00007FF798CD782D]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:09 [ERROR] - Error al expandir capítulo: Message: element not interactable
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8EFD5]
+	(No symbol) [0x00007FF798CD782D]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:09 [ERROR] - Error al expandir capítulo: Message: element not interactable
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8EFD5]
+	(No symbol) [0x00007FF798CD782D]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:09 [ERROR] - Error al expandir capítulo: Message: element not interactable
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8EFD5]
+	(No symbol) [0x00007FF798CD782D]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:09 [ERROR] - Error al expandir capítulo: Message: element not interactable
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8EFD5]
+	(No symbol) [0x00007FF798CD782D]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:09 [ERROR] - Error al expandir capítulo: Message: element not interactable
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8EFD5]
+	(No symbol) [0x00007FF798CD782D]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:09 [ERROR] - Error al expandir capítulo: Message: element not interactable
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8EFD5]
+	(No symbol) [0x00007FF798CD782D]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:11 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+07-09-2024 13:11 [INFO] - Getting courses from https://cursos.devtalles.com/
+07-09-2024 13:11 [INFO] - Page title: DevTalles
+07-09-2024 13:11 [INFO] - Getting course: NestJs + Reportes: Genera PDFs desde Node
+07-09-2024 13:11 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element <button aria-expanded="false" aria-controls="chapter-1" class="
+                      course-curriculum__chapter-header
+                      collapse">...</button> is not clickable at point (699, 36). Other element would receive the click: <ul>...</ul>
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:11 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element <button aria-expanded="false" aria-controls="chapter-2" class="
+                      course-curriculum__chapter-header
+                      collapse">...</button> is not clickable at point (699, 36). Other element would receive the click: <ul>...</ul>
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:11 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element <button aria-expanded="false" aria-controls="chapter-3" class="
+                      course-curriculum__chapter-header
+                      collapse">...</button> is not clickable at point (699, 36). Other element would receive the click: <ul>...</ul>
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:11 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element <button aria-expanded="false" aria-controls="chapter-4" class="
+                      course-curriculum__chapter-header
+                      collapse">...</button> is not clickable at point (699, 36). Other element would receive the click: <ul>...</ul>
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:11 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element <button aria-expanded="false" aria-controls="chapter-5" class="
+                      course-curriculum__chapter-header
+                      collapse">...</button> is not clickable at point (699, 36). Other element would receive the click: <ul>...</ul>
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:11 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element <button aria-expanded="false" aria-controls="chapter-6" class="
+                      course-curriculum__chapter-header
+                      collapse">...</button> is not clickable at point (699, 36). Other element would receive the click: <ul>...</ul>
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:11 [ERROR] - Error al expandir capítulo: Message: element not interactable
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8EFD5]
+	(No symbol) [0x00007FF798CD782D]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:11 [ERROR] - Error al expandir capítulo: Message: element not interactable
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8EFD5]
+	(No symbol) [0x00007FF798CD782D]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:13 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+07-09-2024 13:13 [INFO] - Getting courses from https://cursos.devtalles.com/
+07-09-2024 13:13 [INFO] - Page title: DevTalles
+07-09-2024 13:13 [INFO] - Getting course: Next.js Tradicional: con PagesRouter
+07-09-2024 13:13 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element <li class="course-curriculum__chapter
+                course-curriculum__chapter--collapsed
+                
+              ">...</li> is not clickable at point (699, 37). Other element would receive the click: <ul>...</ul>
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:13 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element <li class="course-curriculum__chapter
+                course-curriculum__chapter--collapsed
+                
+              ">...</li> is not clickable at point (699, 37). Other element would receive the click: <ul>...</ul>
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:13 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element <li class="course-curriculum__chapter
+                course-curriculum__chapter--collapsed
+                
+              ">...</li> is not clickable at point (699, 37). Other element would receive the click: <ul>...</ul>
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:13 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element <li class="course-curriculum__chapter
+                course-curriculum__chapter--collapsed
+                
+              ">...</li> is not clickable at point (699, 37). Other element would receive the click: <ul>...</ul>
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:13 [INFO] - Chapter clicked: Sección 5: Pokemon Static - Continuación
+07-09-2024 13:13 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element is not clickable at point (699, 1477)
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:13 [ERROR] - Error al expandir capítulo: Message: element not interactable
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8EFD5]
+	(No symbol) [0x00007FF798CD782D]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:13 [ERROR] - Error al expandir capítulo: Message: element not interactable
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8EFD5]
+	(No symbol) [0x00007FF798CD782D]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:14 [ERROR] - Error al expandir capítulo: Message: element not interactable
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8EFD5]
+	(No symbol) [0x00007FF798CD782D]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:14 [ERROR] - Error al expandir capítulo: Message: element not interactable
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8EFD5]
+	(No symbol) [0x00007FF798CD782D]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:14 [ERROR] - Error al expandir capítulo: Message: element not interactable
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8EFD5]
+	(No symbol) [0x00007FF798CD782D]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:14 [ERROR] - Error al expandir capítulo: Message: element not interactable
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8EFD5]
+	(No symbol) [0x00007FF798CD782D]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:14 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element is not clickable at point (699, -243)
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:14 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element is not clickable at point (699, 1229)
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:14 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element <li class="course-curriculum__chapter course-curriculum__chapter--collapsed">...</li> is not clickable at point (699, 37). Other element would receive the click: <ul>...</ul>
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:14 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element <li class="course-curriculum__chapter course-curriculum__chapter--collapsed">...</li> is not clickable at point (699, 48). Other element would receive the click: <ul>...</ul>
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:14 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element <li class="course-curriculum__chapter course-curriculum__chapter--collapsed">...</li> is not clickable at point (699, 37). Other element would receive the click: <ul>...</ul>
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:14 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element <li class="course-curriculum__chapter course-curriculum__chapter--collapsed">...</li> is not clickable at point (699, 37). Other element would receive the click: <ul>...</ul>
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:14 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element <li class="course-curriculum__chapter course-curriculum__chapter--collapsed">...</li> is not clickable at point (699, 37). Other element would receive the click: <ul>...</ul>
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:14 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element <li class="course-curriculum__chapter course-curriculum__chapter--collapsed">...</li> is not clickable at point (699, 37). Other element would receive the click: <ul>...</ul>
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:14 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element <li class="course-curriculum__chapter course-curriculum__chapter--collapsed">...</li> is not clickable at point (699, 37). Other element would receive the click: <ul>...</ul>
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:14 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element <li class="course-curriculum__chapter course-curriculum__chapter--collapsed">...</li> is not clickable at point (699, 37). Other element would receive the click: <ul>...</ul>
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:14 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element <li class="course-curriculum__chapter course-curriculum__chapter--collapsed">...</li> is not clickable at point (699, 37). Other element would receive the click: <ul>...</ul>
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:14 [ERROR] - Error al expandir capítulo: Message: element click intercepted: Element is not clickable at point (699, 1437)
+  (Session info: MicrosoftEdge=128.0.2739.67)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798ED3A22+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E70449+323353]
+	(No symbol) [0x00007FF798C8F16E]
+	(No symbol) [0x00007FF798CDC94D]
+	(No symbol) [0x00007FF798CDABFE]
+	(No symbol) [0x00007FF798CD896A]
+	(No symbol) [0x00007FF798CD7D7F]
+	(No symbol) [0x00007FF798CCC613]
+	(No symbol) [0x00007FF798CF7B7A]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798CCBDAD]
+	(No symbol) [0x00007FF798CF7E60]
+	(No symbol) [0x00007FF798CCBEDD]
+	(No symbol) [0x00007FF798D11B07]
+	(No symbol) [0x00007FF798CF77E3]
+	(No symbol) [0x00007FF798CCB3EC]
+	(No symbol) [0x00007FF798CCA8CD]
+	(No symbol) [0x00007FF798CCAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905E4C4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DFC9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF798DEF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79905D24D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E77ED1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E74384+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E744B9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF798E6AD7C+301132]
+	BaseThreadInitThunk [0x00007FFC3E8C7374+20]
+	RtlUserThreadStart [0x00007FFC3F7FCC91+33]
+
+07-09-2024 13:16 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+07-09-2024 13:16 [INFO] - Getting courses from https://cursos.devtalles.com/
+07-09-2024 13:16 [INFO] - Page title: DevTalles
+07-09-2024 13:17 [INFO] - Getting course: OpenAI: Ejercicios y asistentes con Angular + NestJS
+07-09-2024 13:18 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+07-09-2024 13:18 [INFO] - Getting courses from https://cursos.devtalles.com/
+07-09-2024 13:18 [INFO] - Page title: DevTalles
+07-09-2024 13:18 [INFO] - Getting course: NestJS + Microservicios: Aplicaciones escalables y modulares
+07-09-2024 13:20 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+07-09-2024 13:20 [INFO] - Getting courses from https://cursos.devtalles.com/
+07-09-2024 13:20 [INFO] - Page title: DevTalles
+07-09-2024 13:21 [INFO] - Getting course: React: De cero a experto ( Hooks y MERN )
+08-09-2024 12:54 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+08-09-2024 12:54 [INFO] - Getting courses from https://cursos.devtalles.com/
+08-09-2024 12:54 [INFO] - Page title: DevTalles
+08-09-2024 12:55 [INFO] - Getting course: Flutter Intermedio: Diseños profesionales y animaciones
+08-09-2024 12:57 [INFO] - Getting course: GIT+GitHub: Todo un sistema de control de versiones de cero
+08-09-2024 12:57 [INFO] - Getting courses from https://cursos.devtalles.com/
+08-09-2024 12:57 [INFO] - Page title: DevTalles
+08-09-2024 12:57 [INFO] - Getting courses from https://cursos.devtalles.com/
+08-09-2024 12:57 [INFO] - Page title: DevTalles
+08-09-2024 12:58 [INFO] - Getting courses from https://cursos.devtalles.com/
+08-09-2024 12:58 [INFO] - Page title: DevTalles
+08-09-2024 12:59 [INFO] - Getting courses from https://cursos.devtalles.com/
+08-09-2024 12:59 [INFO] - Page title: DevTalles
+08-09-2024 12:59 [INFO] - Getting course: Astro: El framework para sitios web orientados al contenido
+08-09-2024 13:01 [INFO] - Getting courses from https://cursos.devtalles.com/
+08-09-2024 13:01 [INFO] - Page title: DevTalles
+08-09-2024 13:01 [INFO] - Getting courses from https://cursos.devtalles.com/
+08-09-2024 13:01 [INFO] - Page title: DevTalles
+08-09-2024 13:02 [INFO] - Getting course: React: De cero a experto ( Hooks y MERN )
+08-09-2024 17:15 [INFO] - Getting courses from https://cursos.devtalles.com/
+08-09-2024 17:15 [INFO] - Page title: DevTalles
+08-09-2024 17:15 [INFO] - Getting course: Shadcn/ui: Componentes accesibles y personalizables
+08-09-2024 17:16 [INFO] - Getting courses from https://cursos.devtalles.com/
+08-09-2024 17:16 [INFO] - Page title: DevTalles
+08-09-2024 17:17 [INFO] - Getting course: OpenAI: Ejercicios y asistentes con Angular + NestJS
+08-09-2024 17:18 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+08-09-2024 17:18 [INFO] - Getting courses from https://cursos.devtalles.com/
+08-09-2024 17:18 [INFO] - Page title: 
+08-09-2024 17:18 [INFO] - Getting course: SQL de cero: Tu guía práctica con PostgreSQL
+08-09-2024 17:20 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+08-09-2024 17:20 [INFO] - Getting courses from https://cursos.devtalles.com/
+08-09-2024 17:20 [INFO] - Page title: DevTalles
+08-09-2024 17:21 [INFO] - Getting course: Visual Studio Code: Mejora tu velocidad para codificar
+08-09-2024 17:21 [INFO] - Getting course: GIT+GitHub: Todo un sistema de control de versiones de cero
+08-09-2024 17:23 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+08-09-2024 17:23 [INFO] - Getting courses from https://cursos.devtalles.com/
+08-09-2024 17:23 [INFO] - Page title: DevTalles
+08-09-2024 17:23 [INFO] - Getting course: TypeScript: Tu completa guía y manual de mano.
+08-09-2024 17:31 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+08-09-2024 17:31 [INFO] - Getting courses from https://cursos.devtalles.com/
+08-09-2024 17:31 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+08-09-2024 17:31 [INFO] - Getting courses from https://cursos.devtalles.com/
+08-09-2024 17:32 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+08-09-2024 17:32 [INFO] - Getting courses from https://cursos.devtalles.com/
+08-09-2024 17:33 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+08-09-2024 17:33 [INFO] - Getting courses from https://cursos.devtalles.com/
+08-09-2024 17:33 [INFO] - Page title: DevTalles
+08-09-2024 17:34 [INFO] - Getting course: Zustand: Gestor de estado para React
+08-09-2024 17:35 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+08-09-2024 17:35 [INFO] - Getting courses from https://cursos.devtalles.com/
+08-09-2024 17:35 [INFO] - Page title: DevTalles
+08-09-2024 17:35 [INFO] - Getting course: Zustand: Gestor de estado para React
+08-09-2024 17:35 [INFO] - Capítulos disponibles
+08-09-2024 17:35 [INFO] - 1. Sección 1: Introducción
+08-09-2024 17:35 [INFO] - 2. Sección 2: Bases de Zustand
+08-09-2024 17:35 [INFO] - 3. Sección 3: Middlewares de Zustand
+08-09-2024 17:35 [INFO] - 4. Sección 4: Tareas - Drag & Drop - Inmutabilidad con Immer
+08-09-2024 17:35 [INFO] - 5. Sección 5: Zustand Slices
+08-09-2024 17:35 [INFO] - 6. Sección 6: Peticiones HTTP - Zustand fuera de React
+08-09-2024 17:35 [INFO] - 7. Sección 7: Fin del curso
+08-09-2024 17:37 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+08-09-2024 17:37 [INFO] - Getting courses from https://cursos.devtalles.com/
+08-09-2024 17:37 [INFO] - Page title: DevTalles
+08-09-2024 17:37 [INFO] - Getting course: Zustand: Gestor de estado para React
+08-09-2024 17:37 [INFO] - Creating directory D:\Cursos\DevTalles
+08-09-2024 17:37 [INFO] - Capítulos disponibles
+08-09-2024 17:37 [INFO] - 1. Sección 1: Introducción
+08-09-2024 17:37 [INFO] - 2. Sección 2: Bases de Zustand
+08-09-2024 17:37 [INFO] - 3. Sección 3: Middlewares de Zustand
+08-09-2024 17:37 [INFO] - 4. Sección 4: Tareas - Drag & Drop - Inmutabilidad con Immer
+08-09-2024 17:37 [INFO] - 5. Sección 5: Zustand Slices
+08-09-2024 17:37 [INFO] - 6. Sección 6: Peticiones HTTP - Zustand fuera de React
+08-09-2024 17:37 [INFO] - 7. Sección 7: Fin del curso
+08-09-2024 17:39 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+08-09-2024 17:39 [INFO] - Getting courses from https://cursos.devtalles.com/
+08-09-2024 17:39 [INFO] - Page title: DevTalles
+08-09-2024 17:39 [INFO] - Getting course: Zustand: Gestor de estado para React
+08-09-2024 17:40 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+08-09-2024 17:40 [INFO] - Getting courses from https://cursos.devtalles.com/
+08-09-2024 17:40 [INFO] - Page title: DevTalles
+08-09-2024 17:40 [INFO] - Getting course: Zustand: Gestor de estado para React
+08-09-2024 17:40 [INFO] - Creating directory D:\Cursos\Zustand- Gestor de estado para React
+08-09-2024 17:40 [INFO] - Capítulos disponibles
+08-09-2024 17:40 [INFO] - 1. Sección 1: Introducción
+08-09-2024 17:40 [INFO] - 2. Sección 2: Bases de Zustand
+08-09-2024 17:40 [INFO] - 3. Sección 3: Middlewares de Zustand
+08-09-2024 17:40 [INFO] - 4. Sección 4: Tareas - Drag & Drop - Inmutabilidad con Immer
+08-09-2024 17:40 [INFO] - 5. Sección 5: Zustand Slices
+08-09-2024 17:40 [INFO] - 6. Sección 6: Peticiones HTTP - Zustand fuera de React
+08-09-2024 17:40 [INFO] - 7. Sección 7: Fin del curso
+08-09-2024 17:40 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+08-09-2024 17:40 [INFO] - Getting courses from https://cursos.devtalles.com/
+08-09-2024 17:40 [INFO] - Page title: DevTalles
+08-09-2024 17:41 [INFO] - Getting course: Zustand: Gestor de estado para React
+08-09-2024 17:41 [INFO] - Creating directory D:\Cursos\Zustand - Gestor de estado para React
+08-09-2024 17:41 [INFO] - Capítulos disponibles
+08-09-2024 17:41 [INFO] - 1. Sección 1: Introducción
+08-09-2024 17:41 [INFO] - 2. Sección 2: Bases de Zustand
+08-09-2024 17:41 [INFO] - 3. Sección 3: Middlewares de Zustand
+08-09-2024 17:41 [INFO] - 4. Sección 4: Tareas - Drag & Drop - Inmutabilidad con Immer
+08-09-2024 17:41 [INFO] - 5. Sección 5: Zustand Slices
+08-09-2024 17:41 [INFO] - 6. Sección 6: Peticiones HTTP - Zustand fuera de React
+08-09-2024 17:41 [INFO] - 7. Sección 7: Fin del curso
