@@ -115,7 +115,6 @@ def main():
 
                 chapter_element_list.append(data_chapter)
 
-            log("INFO", "Capítulos disponibles")
             for index, chapter in enumerate(chapter_element_list):
                 current_path = f"{root_path}{course_title}\\{chapter['title']}"
                 if not os.path.exists(current_path):
@@ -126,23 +125,27 @@ def main():
                 # * Get chapters from section
 
                 chapter['web_element'].click()
-
+                sleep(2)
                 section_list = WebDriverWait(driver, 10).until(
                     EC.presence_of_element_located((By.CLASS_NAME, "ui-accordion-content-active"))
                 )
-
-                section_list = section_list.find_elements(By.CLASS_NAME, "course-player__content-item")
+                sleep(2)
+                section_list_data = WebDriverWait(section_list, 10).until(
+                    EC.presence_of_all_elements_located((By.CLASS_NAME, "course-player__content-item"))
+                )
 
                 section_element_list = []
 
-                for section in section_list:
+                for section in section_list_data:
                     chapter_section = WebDriverWait(section, 10).until(
                         EC.presence_of_element_located((By.CLASS_NAME, "content-item__title"))
                     )
-                    chapter_section = chapter_section.text
+                    chapter_section = chapter_section.text.strip().replace(":", " -")
                     log("INFO", f"Capitulo: {chapter_section}")
 
                     section_element_list.append(chapter_section)
+                section_element_list = []
+
 
             close = input("[INPUT] Presione cualquier tecla para cerrar...")
             if close:
