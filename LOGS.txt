@@ -2725,3 +2725,379 @@ Stacktrace:
 08-09-2024 17:41 [INFO] - 5. Sección 5: Zustand Slices
 08-09-2024 17:41 [INFO] - 6. Sección 6: Peticiones HTTP - Zustand fuera de React
 08-09-2024 17:41 [INFO] - 7. Sección 7: Fin del curso
+08-09-2024 17:49 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+08-09-2024 17:49 [INFO] - Getting courses from https://cursos.devtalles.com/
+08-09-2024 17:49 [INFO] - Page title: DevTalles
+08-09-2024 17:49 [INFO] - Getting course: Zustand: Gestor de estado para React
+08-09-2024 17:49 [INFO] - Creating directory D:\Cursos\Zustand - Gestor de estado para React
+08-09-2024 17:50 [INFO] - Capítulos disponibles
+08-09-2024 17:50 [INFO] - Creating directory D:\Cursos\Zustand - Gestor de estado para React
+08-09-2024 17:50 [INFO] - 1. Sección 1 - Introducción
+08-09-2024 17:50 [INFO] - Creating directory D:\Cursos\Zustand - Gestor de estado para React
+08-09-2024 17:50 [INFO] - 2. Sección 2 - Bases de Zustand
+08-09-2024 17:50 [INFO] - Creating directory D:\Cursos\Zustand - Gestor de estado para React
+08-09-2024 17:50 [INFO] - 3. Sección 3 - Middlewares de Zustand
+08-09-2024 17:50 [INFO] - Creating directory D:\Cursos\Zustand - Gestor de estado para React
+08-09-2024 17:50 [INFO] - 4. Sección 4 - Tareas - Drag & Drop - Inmutabilidad con Immer
+08-09-2024 17:50 [INFO] - Creating directory D:\Cursos\Zustand - Gestor de estado para React
+08-09-2024 17:50 [INFO] - 5. Sección 5 - Zustand Slices
+08-09-2024 17:50 [INFO] - Creating directory D:\Cursos\Zustand - Gestor de estado para React
+08-09-2024 17:50 [INFO] - 6. Sección 6 - Peticiones HTTP - Zustand fuera de React
+08-09-2024 17:50 [INFO] - Creating directory D:\Cursos\Zustand - Gestor de estado para React
+08-09-2024 17:50 [INFO] - 7. Sección 7 - Fin del curso
+08-09-2024 17:51 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+08-09-2024 17:51 [INFO] - Getting courses from https://cursos.devtalles.com/
+08-09-2024 17:51 [INFO] - Page title: DevTalles
+08-09-2024 17:52 [INFO] - Getting course: Zustand: Gestor de estado para React
+08-09-2024 17:52 [INFO] - Creating directory D:\Cursos\Zustand - Gestor de estado para React
+08-09-2024 17:52 [INFO] - Capítulos disponibles
+08-09-2024 17:52 [INFO] - Creating directory D:\Cursos\Zustand - Gestor de estado para React
+08-09-2024 17:52 [INFO] - 1 - Sección 1 - Introducción
+08-09-2024 17:52 [INFO] - Creating directory D:\Cursos\Zustand - Gestor de estado para React
+08-09-2024 17:52 [INFO] - 2 - Sección 2 - Bases de Zustand
+08-09-2024 17:52 [INFO] - Creating directory D:\Cursos\Zustand - Gestor de estado para React
+08-09-2024 17:52 [INFO] - 3 - Sección 3 - Middlewares de Zustand
+08-09-2024 17:52 [INFO] - Creating directory D:\Cursos\Zustand - Gestor de estado para React
+08-09-2024 17:52 [INFO] - 4 - Sección 4 - Tareas - Drag & Drop - Inmutabilidad con Immer
+08-09-2024 17:52 [INFO] - Creating directory D:\Cursos\Zustand - Gestor de estado para React
+08-09-2024 17:52 [INFO] - 5 - Sección 5 - Zustand Slices
+08-09-2024 17:52 [INFO] - Creating directory D:\Cursos\Zustand - Gestor de estado para React
+08-09-2024 17:52 [INFO] - 6 - Sección 6 - Peticiones HTTP - Zustand fuera de React
+08-09-2024 17:52 [INFO] - Creating directory D:\Cursos\Zustand - Gestor de estado para React
+08-09-2024 17:52 [INFO] - 7 - Sección 7 - Fin del curso
+08-09-2024 23:47 [INFO] - Getting courses from https://cursos.devtalles.com/
+08-09-2024 23:47 [INFO] - Page title: DevTalles
+08-09-2024 23:49 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+08-09-2024 23:49 [INFO] - Getting courses from https://cursos.devtalles.com/
+08-09-2024 23:49 [INFO] - Page title: DevTalles
+08-09-2024 23:49 [INFO] - Getting course: Principios SOLID y Clean Code
+08-09-2024 23:49 [INFO] - Creating directory D:\Cursos\Principios SOLID y Clean Code
+08-09-2024 23:49 [INFO] - Capítulos disponibles
+08-09-2024 23:49 [INFO] - Creating directory D:\Cursos\Principios SOLID y Clean Code
+08-09-2024 23:49 [INFO] - 1 - Sección 1 - Introducción
+08-09-2024 23:49 [INFO] - Creating directory D:\Cursos\Principios SOLID y Clean Code
+08-09-2024 23:49 [INFO] - 2 - Sección 2 - Clean Code y Deuda técnica
+08-09-2024 23:49 [INFO] - Creating directory D:\Cursos\Principios SOLID y Clean Code
+08-09-2024 23:49 [INFO] - 3 - Sección 3 - Clean Code - Clases y Comentarios
+08-09-2024 23:49 [INFO] - Creating directory D:\Cursos\Principios SOLID y Clean Code
+08-09-2024 23:49 [INFO] - 4 - Sección 4 - Acrónimo - STUPID
+08-09-2024 23:49 [INFO] - Creating directory D:\Cursos\Principios SOLID y Clean Code
+08-09-2024 23:49 [INFO] - 5 - Sección 5 - Principios SOLID
+08-09-2024 23:49 [INFO] - Creating directory D:\Cursos\Principios SOLID y Clean Code
+08-09-2024 23:49 [INFO] - 6 - Sección 6 - Fin del curso
+08-09-2024 23:51 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+08-09-2024 23:51 [INFO] - Getting courses from https://cursos.devtalles.com/
+08-09-2024 23:51 [INFO] - Page title: DevTalles
+08-09-2024 23:51 [INFO] - Getting course: Zustand: Gestor de estado para React
+08-09-2024 23:51 [INFO] - Creating directory D:\Cursos\Zustand - Gestor de estado para React
+08-09-2024 23:51 [INFO] - Capítulos disponibles
+08-09-2024 23:51 [INFO] - Creating directory D:\Cursos\Zustand - Gestor de estado para React
+08-09-2024 23:51 [INFO] - 1 - Sección 1 - Introducción
+08-09-2024 23:51 [INFO] - Creating directory D:\Cursos\Zustand - Gestor de estado para React
+08-09-2024 23:51 [INFO] - 2 - Sección 2 - Bases de Zustand
+08-09-2024 23:51 [INFO] - Creating directory D:\Cursos\Zustand - Gestor de estado para React
+08-09-2024 23:51 [INFO] - 3 - Sección 3 - Middlewares de Zustand
+08-09-2024 23:51 [INFO] - Creating directory D:\Cursos\Zustand - Gestor de estado para React
+08-09-2024 23:51 [INFO] - 4 - Sección 4 - Tareas - Drag & Drop - Inmutabilidad con Immer
+08-09-2024 23:51 [INFO] - Creating directory D:\Cursos\Zustand - Gestor de estado para React
+08-09-2024 23:51 [INFO] - 5 - Sección 5 - Zustand Slices
+08-09-2024 23:51 [INFO] - Creating directory D:\Cursos\Zustand - Gestor de estado para React
+08-09-2024 23:51 [INFO] - 6 - Sección 6 - Peticiones HTTP - Zustand fuera de React
+08-09-2024 23:51 [INFO] - Creating directory D:\Cursos\Zustand - Gestor de estado para React
+08-09-2024 23:51 [INFO] - 7 - Sección 7 - Fin del curso
+08-09-2024 23:53 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+08-09-2024 23:53 [INFO] - Getting courses from https://cursos.devtalles.com/
+08-09-2024 23:53 [INFO] - Page title: DevTalles
+08-09-2024 23:53 [INFO] - Getting course: Zustand: Gestor de estado para React
+08-09-2024 23:53 [INFO] - Creating directory D:\Cursos\Zustand - Gestor de estado para React
+08-09-2024 23:53 [INFO] - Capítulos disponibles
+08-09-2024 23:53 [INFO] - Creating directory D:\Cursos\Zustand - Gestor de estado para React
+08-09-2024 23:53 [INFO] - 1 - Sección 1 - Introducción
+08-09-2024 23:53 [INFO] - Creating directory D:\Cursos\Zustand - Gestor de estado para React
+08-09-2024 23:53 [INFO] - 2 - Sección 2 - Bases de Zustand
+08-09-2024 23:53 [INFO] - Creating directory D:\Cursos\Zustand - Gestor de estado para React
+08-09-2024 23:53 [INFO] - 3 - Sección 3 - Middlewares de Zustand
+08-09-2024 23:53 [INFO] - Creating directory D:\Cursos\Zustand - Gestor de estado para React
+08-09-2024 23:53 [INFO] - 4 - Sección 4 - Tareas - Drag & Drop - Inmutabilidad con Immer
+08-09-2024 23:53 [INFO] - Creating directory D:\Cursos\Zustand - Gestor de estado para React
+08-09-2024 23:53 [INFO] - 5 - Sección 5 - Zustand Slices
+08-09-2024 23:53 [INFO] - Creating directory D:\Cursos\Zustand - Gestor de estado para React
+08-09-2024 23:53 [INFO] - 6 - Sección 6 - Peticiones HTTP - Zustand fuera de React
+08-09-2024 23:53 [INFO] - Creating directory D:\Cursos\Zustand - Gestor de estado para React
+08-09-2024 23:53 [INFO] - 7 - Sección 7 - Fin del curso
+09-09-2024 00:00 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+09-09-2024 00:00 [INFO] - Getting courses from https://cursos.devtalles.com/
+09-09-2024 00:00 [INFO] - Page title: DevTalles
+09-09-2024 00:00 [INFO] - Getting course: Zustand: Gestor de estado para React
+09-09-2024 00:00 [INFO] - Capítulos disponibles
+09-09-2024 00:00 [INFO] - 1 - Sección 1 - Introducción
+09-09-2024 00:00 [INFO] - 2 - Sección 2 - Bases de Zustand
+09-09-2024 00:00 [INFO] - 3 - Sección 3 - Middlewares de Zustand
+09-09-2024 00:00 [INFO] - 4 - Sección 4 - Tareas - Drag & Drop - Inmutabilidad con Immer
+09-09-2024 00:00 [INFO] - 5 - Sección 5 - Zustand Slices
+09-09-2024 00:00 [INFO] - 6 - Sección 6 - Peticiones HTTP - Zustand fuera de React
+09-09-2024 00:00 [INFO] - 7 - Sección 7 - Fin del curso
+09-09-2024 00:04 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+09-09-2024 00:04 [INFO] - Getting courses from https://cursos.devtalles.com/
+09-09-2024 00:04 [INFO] - Page title: DevTalles
+09-09-2024 00:04 [INFO] - Getting course: Zustand: Gestor de estado para React
+09-09-2024 00:04 [INFO] - Capítulos disponibles
+09-09-2024 00:04 [INFO] - 1 - Sección 1 - Introducción
+09-09-2024 00:04 [INFO] - 2 - Sección 2 - Bases de Zustand
+09-09-2024 00:04 [INFO] - 3 - Sección 3 - Middlewares de Zustand
+09-09-2024 00:04 [INFO] - 4 - Sección 4 - Tareas - Drag & Drop - Inmutabilidad con Immer
+09-09-2024 00:04 [INFO] - 5 - Sección 5 - Zustand Slices
+09-09-2024 00:04 [INFO] - 6 - Sección 6 - Peticiones HTTP - Zustand fuera de React
+09-09-2024 00:05 [INFO] - 7 - Sección 7 - Fin del curso
+09-09-2024 00:10 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+09-09-2024 00:10 [INFO] - Getting courses from https://cursos.devtalles.com/
+09-09-2024 00:10 [INFO] - Page title: DevTalles
+09-09-2024 00:11 [INFO] - Getting course: Zustand: Gestor de estado para React
+09-09-2024 00:11 [INFO] - Capítulos disponibles
+09-09-2024 00:11 [INFO] - 1 - Sección 1 - Introducción
+09-09-2024 00:11 [INFO] - Capitulo: Introducción
+VIDEO
+ · 2 MIN
+09-09-2024 00:11 [INFO] - Capitulo: ¿Cómo funcionará el curso?
+VIDEO
+ · 3 MIN
+09-09-2024 00:11 [INFO] - Capitulo: ¿Cómo hacer preguntas?
+VIDEO
+ · 2 MIN
+09-09-2024 00:11 [INFO] - Capitulo: Instalaciones necesarias
+VIDEO
+ · 5 MIN
+09-09-2024 00:11 [INFO] - Capitulo: Descarga e instalación de proyecto inicial
+VIDEO
+ · 5 MIN
+09-09-2024 00:11 [INFO] - Capitulo: ¡Únete a Nuestra Comunidad de DevTalles en Discord!
+TEXTO
+09-09-2024 00:11 [INFO] - 2 - Sección 2 - Bases de Zustand
+09-09-2024 00:11 [INFO] - Capitulo: Introducción
+VIDEO
+ · 2 MIN
+09-09-2024 00:11 [INFO] - Capitulo: ¿Cómo funcionará el curso?
+VIDEO
+ · 3 MIN
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - 3 - Sección 3 - Middlewares de Zustand
+09-09-2024 00:11 [INFO] - Capitulo: Introducción
+VIDEO
+ · 2 MIN
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - 4 - Sección 4 - Tareas - Drag & Drop - Inmutabilidad con Immer
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - 5 - Sección 5 - Zustand Slices
+09-09-2024 00:11 [INFO] - Capitulo: Introducción a la sección
+VIDEO
+ · 3 MIN
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - 6 - Sección 6 - Peticiones HTTP - Zustand fuera de React
+09-09-2024 00:11 [INFO] - Capitulo: Introducción a la sección
+VIDEO
+ · 2 MIN
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - 7 - Sección 7 - Fin del curso
+09-09-2024 00:11 [INFO] - Capitulo: Introducción a la sección
+VIDEO
+ · 3 MIN
+09-09-2024 00:11 [INFO] - Capitulo: Temas puntuales de la sección
+TEXTO
+09-09-2024 00:11 [INFO] - Capitulo: Continuación y preparación de proyecto
+VIDEO
+ · 9 MIN
+09-09-2024 00:11 [INFO] - Capitulo: useAuthStore - Store e interfaces
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:11 [INFO] - Capitulo: 
+09-09-2024 00:12 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+09-09-2024 00:12 [INFO] - Getting courses from https://cursos.devtalles.com/
+09-09-2024 00:12 [INFO] - Page title: DevTalles
+09-09-2024 00:13 [INFO] - Getting course: Zustand: Gestor de estado para React
+09-09-2024 00:13 [INFO] - Capítulos disponibles
+09-09-2024 00:13 [INFO] - 1 - Sección 1 - Introducción
+09-09-2024 00:13 [INFO] - Capitulo: Introducción
+VIDEO
+ · 2 MIN
+09-09-2024 00:13 [INFO] - Capitulo: ¿Cómo funcionará el curso?
+VIDEO
+ · 3 MIN
+09-09-2024 00:13 [INFO] - Capitulo: ¿Cómo hacer preguntas?
+VIDEO
+ · 2 MIN
+09-09-2024 00:13 [INFO] - Capitulo: Instalaciones necesarias
+VIDEO
+ · 5 MIN
+09-09-2024 00:13 [INFO] - Capitulo: Descarga e instalación de proyecto inicial
+VIDEO
+ · 5 MIN
+09-09-2024 00:13 [INFO] - Capitulo: ¡Únete a Nuestra Comunidad de DevTalles en Discord!
+TEXTO
+09-09-2024 00:13 [INFO] - 2 - Sección 2 - Bases de Zustand
+09-09-2024 00:13 [INFO] - Capitulo: Introducción
+VIDEO
+ · 2 MIN
+09-09-2024 00:13 [INFO] - Capitulo: ¿Cómo funcionará el curso?
+VIDEO
+ · 3 MIN
+09-09-2024 00:13 [INFO] - Capitulo: ¿Cómo hacer preguntas?
+VIDEO
+ · 2 MIN
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: Descarga e instalación de proyecto inicial
+VIDEO
+ · 5 MIN
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - 3 - Sección 3 - Middlewares de Zustand
+09-09-2024 00:13 [INFO] - Capitulo: Introducción
+VIDEO
+ · 2 MIN
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - 4 - Sección 4 - Tareas - Drag & Drop - Inmutabilidad con Immer
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - 5 - Sección 5 - Zustand Slices
+09-09-2024 00:13 [INFO] - Capitulo: Introducción a la sección
+VIDEO
+ · 3 MIN
+09-09-2024 00:13 [INFO] - Capitulo: Temas puntuales de la sección
+TEXTO
+09-09-2024 00:13 [INFO] - Capitulo: Continuación de la sección
+VIDEO
+ · 3 MIN
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - 6 - Sección 6 - Peticiones HTTP - Zustand fuera de React
+09-09-2024 00:13 [INFO] - Capitulo: Introducción a la sección
+VIDEO
+ · 2 MIN
+09-09-2024 00:13 [INFO] - Capitulo: Temas puntuales de la sección
+TEXTO
+09-09-2024 00:13 [INFO] - Capitulo: Continuación de la sección
+VIDEO
+ · 3 MIN
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - 7 - Sección 7 - Fin del curso
+09-09-2024 00:13 [INFO] - Capitulo: Introducción a la sección
+VIDEO
+ · 3 MIN
+09-09-2024 00:13 [INFO] - Capitulo: Temas puntuales de la sección
+TEXTO
+09-09-2024 00:13 [INFO] - Capitulo: Continuación y preparación de proyecto
+VIDEO
+ · 9 MIN
+09-09-2024 00:13 [INFO] - Capitulo: useAuthStore - Store e interfaces
+VIDEO
+ · 8 MIN
+09-09-2024 00:13 [INFO] - Capitulo: Axios y Servicio de autenticación
+VIDEO
+ · 8 MIN
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:13 [INFO] - Capitulo: 
+09-09-2024 00:16 [INFO] - Ya estás logueado, saltando el proceso de inicio de sesión.
+09-09-2024 00:16 [INFO] - Getting courses from https://cursos.devtalles.com/
+09-09-2024 00:16 [INFO] - Page title: DevTalles
+09-09-2024 00:17 [INFO] - Getting course: Zustand: Gestor de estado para React
+09-09-2024 00:17 [INFO] - Capítulos disponibles
+09-09-2024 00:17 [INFO] - 1 - Sección 1 - Introducción

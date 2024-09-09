@@ -23,6 +23,7 @@ def main():
     edge_options.add_argument("profile-directory=Profile 1")
     edge_options.add_argument("--start-maximized")
     edge_options.add_argument("--disable-bluetooth")
+    edge_options.add_argument("--mute-audio")
 
     driver = webdriver.Edge(options = edge_options, service = service)
 
@@ -55,9 +56,11 @@ def main():
 
     log("INFO", f"Page title: {title}")
 
+    sleep(2)
+
     driver.get(f"{main_page}pages/todos-los-cursos")
 
-    sleep(5)
+    sleep(2)
 
     courses = WebDriverWait(driver, 10).until(
         EC.presence_of_all_elements_located((By.CLASS_NAME, "products__list-item"))
@@ -104,15 +107,47 @@ def main():
 
             for chapter in chapter_list:
                 title_chapter = chapter.find_element(By.TAG_NAME, "h2")
+                title_chapter = title_chapter.text.replace(":", " -")
                 data_chapter = {
-                    "title": title_chapter.text
+                    "title": title_chapter,
+                    "web_element": chapter
                 }
+
                 chapter_element_list.append(data_chapter)
 
             log("INFO", "Capítulos disponibles")
             for index, chapter in enumerate(chapter_element_list):
-                log("INFO", f"{index + 1}. {chapter['title']}")
-            option_continue = False
+                current_path = f"{root_path}{course_title}\\{chapter['title']}"
+                if not os.path.exists(current_path):
+                    os.mkdir(current_path)
+                    log("INFO", f"Creating directory {root_path}{course_title}")
+                log("INFO", f"{index + 1} - {chapter['title']}")
+
+                # * Get chapters from section
+
+                chapter['web_element'].click()
+
+                section_list = WebDriverWait(driver, 10).until(
+                    EC.presence_of_element_located((By.CLASS_NAME, "ui-accordion-content-active"))
+                )
+
+                section_list = section_list.find_elements(By.CLASS_NAME, "course-player__content-item")
+
+                section_element_list = []
+
+                for section in section_list:
+                    chapter_section = WebDriverWait(section, 10).until(
+                        EC.presence_of_element_located((By.CLASS_NAME, "content-item__title"))
+                    )
+                    chapter_section = chapter_section.text
+                    log("INFO", f"Capitulo: {chapter_section}")
+
+                    section_element_list.append(chapter_section)
+
+            close = input("[INPUT] Presione cualquier tecla para cerrar...")
+            if close:
+                driver.quit()
+                option_continue = False
         else:
             print("[ERROR] Opción inválida")
 
