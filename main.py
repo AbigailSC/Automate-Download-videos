@@ -1,5 +1,5 @@
 import os
-from module.utils import log, custom_show_menu
+from module.utils import log, custom_show_menu, write_txt, clean_filename
 from time import sleep
 from dotenv import load_dotenv
 from selenium import webdriver
@@ -8,7 +8,7 @@ from selenium.webdriver.edge.service import Service
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.support import expected_conditions as EC
-
+import re
 
 def main():
     load_dotenv()
@@ -50,7 +50,7 @@ def main():
             )
             user_account.click()
     except TimeoutException:
-        log("INFO", "Ya estás logueado, saltando el proceso de inicio de sesión.")
+        log("INFO", "You are already logged in, skipping login process")
 
     log("INFO", f"Getting courses from {main_page}")
 
@@ -84,11 +84,12 @@ def main():
         option = int(input("[INPUT] Seleccione una opción: "))
 
         if option > 0 and option <= len(element_list):
-            driver.get(element_list[option - 1]["link"])
+            driver.get(element_list[option - 1]['link'])
             course_title = element_list[option - 1]['title']
             log("INFO", f"Getting course: {course_title}")
 
             course_title = course_title.replace(":", " -")
+            course_title = clean_filename(course_title)
 
             if not os.path.exists(f"{root_path}{course_title}"):
                     os.mkdir(f"{root_path}{course_title}")
@@ -108,6 +109,7 @@ def main():
             for chapter in chapter_list:
                 title_chapter = chapter.find_element(By.TAG_NAME, "h2")
                 title_chapter = title_chapter.text.replace(":", " -")
+                title_chapter = clean_filename(title_chapter)
                 data_chapter = {
                     "title": title_chapter,
                     "web_element": chapter
@@ -126,26 +128,66 @@ def main():
 
                 chapter['web_element'].click()
                 sleep(2)
+                
                 section_list = WebDriverWait(driver, 10).until(
                     EC.presence_of_element_located((By.CLASS_NAME, "ui-accordion-content-active"))
                 )
-                sleep(2)
                 section_list_data = WebDriverWait(section_list, 10).until(
                     EC.presence_of_all_elements_located((By.CLASS_NAME, "course-player__content-item"))
                 )
 
                 section_element_list = []
+                for index, section in enumerate(section_list_data):
+                    try:
+                        chapter_section = WebDriverWait(section, 10).until(
+                            EC.presence_of_element_located((By.CLASS_NAME, "content-item__title"))
+                        )
+                        chapter_section.click()
+                        sleep(2)
 
-                for section in section_list_data:
-                    chapter_section = WebDriverWait(section, 10).until(
-                        EC.presence_of_element_located((By.CLASS_NAME, "content-item__title"))
-                    )
-                    chapter_section = chapter_section.text.strip().replace(":", " -")
-                    log("INFO", f"Capitulo: {chapter_section}")
+                        chapter_section = chapter_section.text.strip().replace(":", " -").split("\n")[0]
+                        chapter_section = f"{index + 1:02d} - {chapter_section}"
 
+                        chapter_section = clean_filename(chapter_section)
+                        chapter_section = chapter_section.replace("/", " -")
+
+                        log("INFO", f"{chapter_section}")
+                    except TimeoutException:
+                        log("ERROR", "Element not found")
+                        continue
+                    try:
+                        iframe = WebDriverWait(driver, 10).until(
+                            EC.presence_of_element_located((By.TAG_NAME, "iframe"))
+                        )
+                        driver.switch_to.frame(iframe)
+                        sleep(2)
+                    except TimeoutException:
+                        log("ERROR", f"No iframe found for section: {chapter_section}")
+                        driver.switch_to.default_content()
+                        continue
+
+                    video_id = None
+                    elementos_adicionales = driver.find_elements(By.XPATH, "//*")
+                    for elemento in elementos_adicionales:
+                        pattern = r'"@id":"https://fast\.wistia\.net/embed/iframe/([^"]+)"'
+                        match = re.search(pattern, elemento.get_attribute('outerHTML'))
+                        if match:
+                            video_id = match.group(1)
+                            log("INFO", f"Video ID: {video_id}")
+                            break
+                        else:
+                            log("DEBUG", elemento.get_attribute('outerHTML'))
+                    driver.switch_to.default_content()
+                    if video_id is not None:
+                        video_url = f"https://fast.wistia.net/embed/iframe/{video_id}"
+                        log("INFO", f"Video URL: {video_url}")
+                        write_txt(f"{current_path}\\{chapter_section}.txt", f"{chapter_section}\t{video_url}")
+                    else:
+                        log("ERROR", "Video ID not found")
+                        write_txt(f"{current_path}\\{chapter_section}.txt", f"{chapter_section}\tNo disponible")
                     section_element_list.append(chapter_section)
-                section_element_list = []
 
+                section_element_list = []
 
             close = input("[INPUT] Presione cualquier tecla para cerrar...")
             if close:

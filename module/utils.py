@@ -1,5 +1,6 @@
 import datetime
 import os
+import re
 
 def get_datetime() -> str:
     current_date = datetime.datetime.now()
@@ -8,9 +9,7 @@ def get_datetime() -> str:
 
 def log(status: str, data: str):
     try:
-        with open("LOGS.txt", "a", encoding="utf-8") as file:
-            line = f"{get_datetime()} [{status}] - {data}"
-            file.write(line + '\n')
+        write_txt("LOGS.txt", f"{get_datetime()} - {status} - {data}")
     except FileNotFoundError:
         print('File not found')
 
@@ -23,3 +22,13 @@ def custom_show_menu(options: list[dict | str], title: str | None) -> None:
             print(f"{index + 1}) {options[index]["title"]}")
         else:
             print(f"{index + 1}) {options[index]}")
+
+def write_txt(filename: str, data: str) -> None:
+    try:
+        with open(filename, "a", encoding="utf-8") as file:
+            file.write(data + '\n')
+    except Exception as e:
+        print(f"Error al escribir en el archivo: {e}")
+
+def clean_filename(filename: str) -> str:
+    return re.sub(r'[<>:"/\\|?*¿]', '', filename)
